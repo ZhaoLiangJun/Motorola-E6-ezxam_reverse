@@ -6,7 +6,9 @@ build/
 
 # ================= Ghidra 反编译工程与导出 =================
 # ghidra/decompiled 下约 2000 个 .c 为工具导出物，可由 _origlib 原始库重生成
-ghidra/
+# 例外：导出脚本本身是源码，需入库以便复现
+ghidra/*
+!ghidra/ExportDecompiled.java
 
 # ================= 历史归档 =================
 backup/

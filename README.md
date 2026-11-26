@@ -12,32 +12,72 @@
 
 ```
 ezxam_reverse/
-├── include/ezx/          重建头文件 (29 个)
-│   ├── AM_AppObject.h    应用对象基类（5 个虚函数）
-│   ├── AM_AppLnk.h       应用快捷方式（继承 AppObject）
-│   ├── AM_Folder.h       文件夹（继承 AppObject）
-│   ├── AM_Shortcut.h     快捷方式（继承 AppObject）
-│   ├── AM_EmbeddedLink.h 内嵌链接（继承 AppObject）
-│   ├── AM_AppFactory.h   工厂（按 Type 分配派生类）
-│   ├── AM_RegistryManager.h  注册表核心（48 方法）
-│   ├── AM_AppDataInterface.h 数据接口（委托 RegistryManager）
-│   ├── AM_AppLockManager.h   应用锁单例
-│   ├── AM_SecurityManager.h  签名验证
-│   ├── AM_Carrier_Info.h     运营商信息
-│   ├── AM_StandardDlg.h      标准对话框
+├── include/ezx/            重建头文件 (31 个)
+│   ├── AM_AppObject.h      应用对象基类（5 个虚函数）
+│   ├── AM_AppLnk.h         应用快捷方式（继承 AppObject）
+│   ├── AM_Folder.h         文件夹（继承 AppObject）
+│   ├── AM_Shortcut.h       快捷方式（继承 AppObject）
+│   ├── AM_EmbeddedLink.h   内嵌链接（继承 AppObject）
+│   ├── AM_AppFactory.h     工厂（按 Type 分配派生类）
+│   ├── AM_RegistryManager.h   注册表核心（48 方法）
+│   ├── AM_AppDataInterface.h  数据接口（委托 RegistryManager）
+│   ├── AM_AppLockManager.h    应用锁单例
+│   ├── AM_SecurityManager.h   签名验证
+│   ├── AM_Carrier_Info.h      运营商信息
+│   ├── AM_StandardDlg.h       标准对话框
 │   ├── AM_GroupListScrollView.h 分组列表
 │   ├── AM_MainMenuInterface.h   主菜单接口
-│   ├── AM_SystemConfig.h     系统配置
-│   ├── Idle_Setup.h          待机屏/S3 配置
+│   ├── AM_SystemConfig.h      系统配置
+│   ├── Idle_Setup.h           待机屏/S3 配置
 │   └── ... (AM_Global/AM_LauncherInterface/ZConfig 等依赖头)
-├── src/                  重建实现 (16 个 .cpp)
-├── ghidra/decompiled/    Ghidra 反编译参考 (1414 函数)
-│   ├── perfunc/          每函数一个文件
-│   └── all_decompiled.c  全部汇总
-├── func_addr_map.json    地址↔符号映射表
-├── build_in_wsl.sh       WSL 原版工具链编译脚本
-└── STATUS.md             本文档
+├── include/                amlog.h、qt_preinclude.h
+├── src/                    重建实现 (23 个 .cpp + ringlog.h)
+├── stubs/                  链接期桩库 (7 个，构建必需，见下节)
+├── docs/                   方法论与子系统分析 (8 篇)
+├── _tools/                 探针与并发测试程序源码 (8 个)
+├── _zhcn/zh-cn/            zh-cn 翻译包 (.qm 38 个 + readme.cfg)
+├── Makefile                构建入口：all / moc / verify / clean / rebuild
+├── build_in_wsl.sh         WSL 原版工具链编译脚本
+├── build_win.sh, link_win.sh   Windows 侧编译与链接脚本
+├── *.py                    逆向分析脚本 (96 个)
+├── func_map.json           地址↔函数映射（build_map.py 生成）
+├── symbols.json、func_addr_map.json、orig_symvals.json
+└── *.md                    CONTEXT / STATUS / REVERSE_PLAYBOOK / AUDIT_V63 / TRANSFER
 ```
+
+> Ghidra 反编译产物（`ghidra/decompiled/`，约 2000 个函数文件）与原始二进制**不在仓库内**，重生成方式见下节。
+
+---
+
+## 仓库范围与产物重生成
+
+仓库只收录**手写源码、文档、分析脚本与构建用例**。体积大、可由原库再生的中间产物不入库，`.gitignore` 中均有注释说明。克隆后若发现某份资料缺失，按下表回溯。
+
+### 未入库内容与重生成方式
+
+| 未入库 | 体积 | 如何重生成 |
+|---|---|---|
+| `_origlib/libezxam.so.1`（原版库） | 276K | **需自备**：从 E6 固件或设备 `/usr/lib/ezx/lib/libezxam.so.1.0.0` 提取（版权原因不分发） |
+| `ghidra/libezxam.gpr` + `libezxam.rep/`（Ghidra 工程） | 14M | Ghidra 12.x 新建工程导入原版库即得；符号参考 `symbols.json` |
+| `ghidra/decompiled/`（反编译 C，约 2000 文件） | 6.3M | `analyzeHeadless <proj> libezxam -postScript ExportDecompiled.java`（导出脚本 `ghidra/ExportDecompiled.java` 已入库） |
+| `*.dis`、`orig_disasm_full.txt`、`*_sym.txt`、`*_rel.txt` | ~8M | 对原库执行 `arm-linux-objdump -d`、`arm-linux-readelf -s/-r`、`arm-linux-nm -D` |
+| `libezxam_reconstructed.so.1.0.0` 等构建产物 | — | `bash build_in_wsl.sh`，或 `make all` |
+| `backup/`（历史版本归档） | 945K | 无需重生成，版本演进见 `STATUS.md` |
+
+### 为什么 `stubs/` 必须入库
+
+`stubs/` 下 7 个 `lib*.so*` 是空实现的链接期桩（每个约 7KB），只为让 E6 平台库中的未解析符号通过链接，不参与运行。**删除它们会直接导致链接失败**，因此 `.gitignore` 针对二进制规则单独做了反排除（规则位于文件末尾，顺序不能前移）。
+
+### 克隆后快速自检
+
+```bash
+make -n                # 干跑构建，确认头文件/桩库/源码依赖齐备（需先设置 TOOLCHAIN_BIN）
+```
+
+### 重跑分析脚本前的两个坑
+
+1. **硬编码原库路径**：`build_map.py`、`demangle.py`、`demangle_v2.py` 内写死了本机绝对路径 `C:/Users/ZhaoLiangJun/Documents/E6/libezxam.so.1.0.0`，换机运行前先改为 `_origlib/libezxam.so.1`。
+2. **依赖反编译产物**：`build_map.py` 除原库外还读取 `ghidra/decompiled/all_decompiled.c`，须先按上表完成反编译导出，否则脚本会在该处中断。
 
 ---
 
