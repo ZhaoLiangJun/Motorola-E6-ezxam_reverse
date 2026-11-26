@@ -56,6 +56,14 @@ am_launch_func.txt
 doLaunch_dis.txt
 _audit_v74.txt
 
+# ================= 例外（必须放在文件末尾，gitignore 以最后匹配规则为准）=================
+# stubs/ 下桩库是链接期依赖，构建必需，务必入库
+!stubs/*.so
+!stubs/*.so.*
+!stubs/*.0
+!stubs/*.1
+!stubs/*.02
+
 # ================= 通用 =================
 __pycache__/
 *.pyc
