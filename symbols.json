@@ -1,0 +1,5168 @@
+{
+  "_ZN9AM_AppLnk17setAppLockEnabledEb": {
+    "addr": 1101995696,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK19AM_AppDataInterface10metaObjectEv": {
+    "addr": 1102145592,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN18AM_SecurityManagerD4Ev": {
+    "addr": 1102114788,
+    "size": 496,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK12AM_AppObject7getPathEv": {
+    "addr": 1101986456,
+    "size": 1472,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView9moveChildEP7QWidgetii": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager13folderChangedEPK9AM_Folder": {
+    "addr": 1102146780,
+    "size": 276,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QStringList5splitERK7QStringS2_b": {
+    "addr": 0,
+    "size": 1488,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView18viewportWheelEventEP11QWheelEvent": {
+    "addr": 0,
+    "size": 200,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14DmtTreeFactory10GetSubtreeERK12DmtPrincipalPKcR11JemSmartPtrI7DmtTreeE": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN20AM_MainMenuInterfaceD1Ev": {
+    "addr": 1102109568,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QWidget15customWhatsThisEv": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9QFileInfo8filePathEv": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup15doAutoSelectionERbS0_b": {
+    "addr": 1102124032,
+    "size": 6528,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager22slotHotPlugForceUpdateERK8QCStringRK6QArrayIcE": {
+    "addr": 1102088488,
+    "size": 328,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget8qwsEventEP8QWSEvent": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObjectD2Ev": {
+    "addr": 1101965908,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfig5flushEv": {
+    "addr": 0,
+    "size": 68,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObjectC2Ev": {
+    "addr": 1101965032,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget10setPaletteERK8QPalette": {
+    "addr": 0,
+    "size": 308,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnkC4Ev": {
+    "addr": 1101987976,
+    "size": 172,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView4showEv": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QPixmapD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK12AM_AppObject7getNameEv": {
+    "addr": 1101966472,
+    "size": 14020,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QListI12AM_AppObjectED0Ev": {
+    "addr": 1102004228,
+    "size": 64,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager11changeOrderERK7QStringRK5QListIS0_E": {
+    "addr": 1102042212,
+    "size": 992,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13SETUP_UtilityD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK6QGList5writeER11QDataStreamPv": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView16setSelectionModeENS_13SelectionModeE": {
+    "addr": 0,
+    "size": 52,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGCache13remove_stringERK7QString": {
+    "addr": 0,
+    "size": 52,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK18AM_RegistryManager12getAppObjectERK7QString": {
+    "addr": 1102016204,
+    "size": 160,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager13getAllAppListER5QListI12AM_AppObjectE": {
+    "addr": 1102016364,
+    "size": 676,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager16staticMetaObjectEv": {
+    "addr": 1102145908,
+    "size": 872,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView18focusNextPrevChildEb": {
+    "addr": 0,
+    "size": 616,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_SystemConfig6ezxGidEv": {
+    "addr": 1101965012,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfig10writeEntryERK7QStringS2_Pc": {
+    "addr": 0,
+    "size": 144,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN5QFileD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup16isShortcutFreezeEi": {
+    "addr": 1102144308,
+    "size": 448,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QGList8insertAtEjPv": {
+    "addr": 0,
+    "size": 148,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17AM_AppLockManager16staticMetaObjectEv": {
+    "addr": 1102148700,
+    "size": 496,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterfaceD1Ev": {
+    "addr": 1101964468,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManagerD0Ev": {
+    "addr": 1102102840,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager17initRegistryFilesEv": {
+    "addr": 1102020344,
+    "size": 396,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_AppLnkD0Ev": {
+    "addr": 1101988164,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget10adjustSizeEv": {
+    "addr": 0,
+    "size": 244,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_SecurityManagerC2Ev": {
+    "addr": 1102114408,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager19getInstalledAppListER5QListI9AM_AppLnkEb": {
+    "addr": 1102079156,
+    "size": 212,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK5QUuid6isNullEv": {
+    "addr": 0,
+    "size": 64,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager21getAppParentFolderUidERK7QStringRS0_": {
+    "addr": 1102088284,
+    "size": 204,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZltRK7QStringS1_": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK6QGList5countEv": {
+    "addr": 1101964964,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN13AM_AppFactoryD1Ev": {
+    "addr": 1102010912,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13AM_ActionData9setObjectERK7QString": {
+    "addr": 0,
+    "size": 68,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog10closeEventEP11QCloseEvent": {
+    "addr": 0,
+    "size": 120,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObject6invokeERK20AM_LauncherInterface": {
+    "addr": 1101987928,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN11QCollection7newItemEPv": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView22setAllColumnsShowFocusEb": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_Info20slotUpdateInfoStringEv": {
+    "addr": 1102113784,
+    "size": 624,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget4moveEii": {
+    "addr": 0,
+    "size": 88,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QFrame15setMidLineWidthEi": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QFrame9setMarginEi": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView7setFontERK5QFont": {
+    "addr": 0,
+    "size": 88,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11AM_ShortcutC4Ev": {
+    "addr": 1102009340,
+    "size": 100,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK12QPaintDevice7fontMetEP5QFontiPKci": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget19setBackgroundPixmapERK7QPixmap": {
+    "addr": 0,
+    "size": 28,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn36_NK7QWidget6metricEi": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_SystemConfigC4Ev": {
+    "addr": 1101964980,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget9setCursorERK7QCursor": {
+    "addr": 0,
+    "size": 160,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView10setSortingEib": {
+    "addr": 0,
+    "size": 136,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QString3argERKS_i": {
+    "addr": 0,
+    "size": 484,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObject15setAppLockValueEi": {
+    "addr": 1101987960,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN15AM_Carrier_Info2trEPKcS1_": {
+    "addr": 1102150840,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13QListViewItem14sortChildItemsEib": {
+    "addr": 0,
+    "size": 712,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_SecurityManager23verifySecurityByInstallERK7QStringRS0_": {
+    "addr": 1102118076,
+    "size": 1948,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager12loadRegistryEv": {
+    "addr": 1102020740,
+    "size": 684,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QListI12AM_AppObjectED1Ev": {
+    "addr": 1102005248,
+    "size": 56,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN6QGList5firstEv": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget7setMaskERK7QBitmap": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_InfoD0Ev": {
+    "addr": 1102113432,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget15keyReleaseEventEP9QKeyEvent": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "UTIL_GetOrgSpnName": {
+    "addr": 0,
+    "size": 108,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QCheckListItem9paintCellEP8QPainterRK11QColorGroupiii": {
+    "addr": 0,
+    "size": 1324,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGCacheC2EijNS_7KeyTypeEbb": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_EmbeddedLinkC4Ev": {
+    "addr": 1102005348,
+    "size": 100,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN20AM_MainMenuInterfaceC1Ev": {
+    "addr": 1102109552,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN22AM_GroupListScrollView16getSelectedGroupEv": {
+    "addr": 1102112020,
+    "size": 144,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView11styleChangeER6QStyle": {
+    "addr": 0,
+    "size": 32,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMetaObject14new_metaobjectEPKcS1_P9QMetaDataiS3_iP13QMetaPropertyiP9QMetaEnumiP10QClassInfoi": {
+    "addr": 0,
+    "size": 132,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QWidget8scanLineEi": {
+    "addr": 0,
+    "size": 52,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget10setEnabledEb": {
+    "addr": 0,
+    "size": 504,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget15mousePressEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 204,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QPixmapC1ERKS_": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13AM_AppFactory15createAppObjectEN12AM_AppObject4TypeE": {
+    "addr": 1102010924,
+    "size": 132,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK9QListView9classNameEv": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12QMapIteratorI7QStringP12AM_AppObjectE3decEv": {
+    "addr": 1102100840,
+    "size": 136,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN15AM_SystemConfigD1Ev": {
+    "addr": 1101964992,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QHBoxLayoutC1EP7QLayoutiPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QStringpLERKS_": {
+    "addr": 0,
+    "size": 236,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterfaceC4EP18AM_RegistryManagerP7QObjectPKc": {
+    "addr": 1101964344,
+    "size": 116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView12focusInEventEP11QFocusEvent": {
+    "addr": 0,
+    "size": 112,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView29contentsMouseDoubleClickEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 192,
+    "bind": 1,
+    "defined": false
+  },
+  "CM_SEC_FreeCertPathMem": {
+    "addr": 0,
+    "size": 164,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterfaceD4Ev": {
+    "addr": 1101964484,
+    "size": 156,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK4QDir5countEv": {
+    "addr": 0,
+    "size": 268,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK11QMapPrivateI7QStringP12AM_AppObjectE4findERKS0_": {
+    "addr": 1102101680,
+    "size": 124,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlg16staticMetaObjectEv": {
+    "addr": 1102149588,
+    "size": 288,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager14appUnInstalledERK7QStringS2_": {
+    "addr": 1102147600,
+    "size": 356,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_Carrier_Info14initMetaObjectEv": {
+    "addr": 1102150644,
+    "size": 116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11AM_ShortcutD4Ev": {
+    "addr": 1102009464,
+    "size": 132,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_FolderD1Ev": {
+    "addr": 1101996288,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZneRK7QStringS1_": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlg7preInitEv": {
+    "addr": 1102110000,
+    "size": 96,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView29viewportMouseDoubleClickEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 164,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterfaceD2Ev": {
+    "addr": 1101964460,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_SetupD4Ev": {
+    "addr": 1102123996,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK5QTime4hourEv": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN8QCStringpLEPKc": {
+    "addr": 0,
+    "size": 140,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget11setAutoMaskEb": {
+    "addr": 0,
+    "size": 104,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn48_N14AM_StandardDlgD0Ev": {
+    "addr": 1102110832,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager12createFolderERK7QStringS2_S2_S2_": {
+    "addr": 1102033796,
+    "size": 5956,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_SecurityManagerC4Ev": {
+    "addr": 1102114416,
+    "size": 356,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QDialog9classNameEv": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN8DMStringD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK19AM_AppDataInterface14getAutoRunAppsER5QListI9AM_AppLnkE": {
+    "addr": 1101964940,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QFile5closeEv": {
+    "addr": 0,
+    "size": 132,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN26AM_GroupListScrollViewItemC1E7QStringP9QListViewRKS0_N14QCheckListItem4TypeE": {
+    "addr": 1102112612,
+    "size": 136,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView18setRootIsDecoratedEb": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget16setSizeIncrementEii": {
+    "addr": 0,
+    "size": 68,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11AM_MimeType17getMimeTypeDataExERK7QString": {
+    "addr": 0,
+    "size": 788,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget14setFocusPolicyENS_11FocusPolicyE": {
+    "addr": 0,
+    "size": 140,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK11AM_Shortcut15getAppLockValueEv": {
+    "addr": 1102010876,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlg9getSelectEv": {
+    "addr": 1102110808,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObject12createObjectERK4QMapI7QStringS1_E": {
+    "addr": 1101987932,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK15AM_Carrier_Info9classNameEv": {
+    "addr": 1102150608,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView18setColumnWidthModeEiNS_9WidthModeE": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN21QListViewItemIteratorppEv": {
+    "addr": 0,
+    "size": 132,
+    "bind": 1,
+    "defined": false
+  },
+  "strcmp": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListViewD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget8setFocusEv": {
+    "addr": 0,
+    "size": 480,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView22contentsDragEnterEventEP15QDragEnterEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Global10getDirSizeERK7QString": {
+    "addr": 0,
+    "size": 768,
+    "bind": 1,
+    "defined": false
+  },
+  "CM_SEC_VerifyFileSignatureByPathGetAllow": {
+    "addr": 0,
+    "size": 620,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_SecurityManagerD1Ev": {
+    "addr": 1102114780,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QFrame13setFrameStyleEi": {
+    "addr": 0,
+    "size": 136,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13SETUP_Utility10getFlexBitE15SETUP_FLEX_ID_TRb": {
+    "addr": 0,
+    "size": 648,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView17setHScrollBarModeENS_13ScrollBarModeE": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9AM_AppLnk15getExecFullPathEv": {
+    "addr": 1101993240,
+    "size": 1528,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget9setWStateEj": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlg2trEPKc": {
+    "addr": 1102149428,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17SETUP_SET_Manager14getSettingInfoE7QStringS0_Rbb": {
+    "addr": 0,
+    "size": 220,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9AM_Folder7isEmptyEv": {
+    "addr": 1102003656,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget18focusNextPrevChildEb": {
+    "addr": 0,
+    "size": 300,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_FolderD2Ev": {
+    "addr": 1101996280,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlg8postInitEv": {
+    "addr": 1102110096,
+    "size": 644,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QObjectD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_Info16staticMetaObjectEv": {
+    "addr": 1102150920,
+    "size": 312,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget14setFixedHeightEi": {
+    "addr": 0,
+    "size": 100,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn36_N14AM_StandardDlgD1Ev": {
+    "addr": 1102110824,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN6QGListaSERKS_": {
+    "addr": 0,
+    "size": 116,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget17setBackgroundModeENS_14BackgroundModeE": {
+    "addr": 0,
+    "size": 84,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog11setGeometryEiiii": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK11QScrollView10sizePolicyEv": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN21QListViewItemIteratorD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9AM_AppLnk15getAppLockValueEv": {
+    "addr": 1101995704,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "getenv": {
+    "addr": 0,
+    "size": 276,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnk12createObjectERK4QMapI7QStringS1_E": {
+    "addr": 1101989120,
+    "size": 4116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObjectD4Ev": {
+    "addr": 1101965932,
+    "size": 540,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK22AM_GroupListScrollView9classNameEv": {
+    "addr": 1102149888,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN22AM_GroupListScrollView2trEPKcS1_": {
+    "addr": 1102150120,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QObject11eventFilterEPS_P6QEvent": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QObject9receiversEPKc": {
+    "addr": 0,
+    "size": 172,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager17getConfigFileNameENS_11RegFileTypeE": {
+    "addr": 1102017040,
+    "size": 3304,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QObject7connectEPKS_PKcS1_S3_": {
+    "addr": 0,
+    "size": 988,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog4doneEi": {
+    "addr": 0,
+    "size": 124,
+    "bind": 1,
+    "defined": false
+  },
+  "AM_RegistryManager_changeFolder": {
+    "addr": 1102100308,
+    "size": 492,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK17AM_AppLockManager10metaObjectEv": {
+    "addr": 1102149272,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK5QDate4yearEv": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView18setColumnAlignmentEii": {
+    "addr": 0,
+    "size": 180,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget6createEjbb": {
+    "addr": 0,
+    "size": 2184,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QCheckListItem8activateEv": {
+    "addr": 0,
+    "size": 232,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget9setWFlagsEj": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager18getSystemFolderUidENS_12SystemFolderER7QString": {
+    "addr": 1102088116,
+    "size": 168,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QFrame13drawFrameMaskEP8QPainter": {
+    "addr": 0,
+    "size": 1076,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15UTIL_PushButtonC1EP7QWidgetiii": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterfaceC1EP18AM_RegistryManagerP7QObjectPKc": {
+    "addr": 1101964340,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK19AM_AppDataInterface13getAppObjByIdERK5QUuid": {
+    "addr": 1101964652,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface13folderChangedEPK9AM_Folder": {
+    "addr": 1102145316,
+    "size": 276,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN20AM_MainMenuInterfaceD2Ev": {
+    "addr": 1102109560,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QString15stripWhiteSpaceEv": {
+    "addr": 0,
+    "size": 468,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManagerC1EP7QObjectPKc": {
+    "addr": 1102011060,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView25viewportMouseReleaseEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 164,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget14setMaximumSizeEii": {
+    "addr": 0,
+    "size": 176,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK18AM_RegistryManager10metaObjectEv": {
+    "addr": 1102148384,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QDialog6rejectEv": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnk14getUidByStringERK7QString": {
+    "addr": 1101994768,
+    "size": 548,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK5QDate3dayEv": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_InfoC1EP7QObject": {
+    "addr": 1102113076,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QFrame16drawContentsMaskEP8QPainter": {
+    "addr": 0,
+    "size": 188,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QGListIteratorC2ERK6QGList": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QArrayIcED1Ev": {
+    "addr": 1102100976,
+    "size": 44,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN9AM_AppLnkD4Ev": {
+    "addr": 1101988172,
+    "size": 340,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView17setMultiSelectionEb": {
+    "addr": 0,
+    "size": 52,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterface13getRootFolderEv": {
+    "addr": 1101964712,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN4QDirC1ERK7QStringS2_ii": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager18slotAppUnInstalledERK7QStringS2_": {
+    "addr": 1102085676,
+    "size": 1308,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlg14initMetaObjectEv": {
+    "addr": 1102149312,
+    "size": 116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QMapPrivateI7QStringS0_E4copyEP8QMapNodeIS0_S0_E": {
+    "addr": 1102004476,
+    "size": 280,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN9QListView15setTreeStepSizeEi": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13SETUP_Utility18getImsiChangedFlagEv": {
+    "addr": 0,
+    "size": 248,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog4hideEv": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObjectD0Ev": {
+    "addr": 1101965924,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZGlobal14getDesktopRectEv": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9AM_AppLnk17getAppLockEnabledEv": {
+    "addr": 1101995688,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN13QListViewItem11setSelectedEb": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGCache5clearEv": {
+    "addr": 0,
+    "size": 288,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7ZConfig16getGroupsKeyListER11QStringList": {
+    "addr": 0,
+    "size": 1432,
+    "bind": 1,
+    "defined": false
+  },
+  "AM_RegistryManager_removeAppFromMainMenu": {
+    "addr": 1102099716,
+    "size": 240,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget7setNameEPKc": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject16staticMetaObjectEv": {
+    "addr": 0,
+    "size": 888,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN20AM_LauncherInterface22autoOpenWithAnotherAppERK5QUuidRK7QStringb": {
+    "addr": 0,
+    "size": 348,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK5QTime6minuteEv": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17SETUP_SET_Manager15getEntryKeyListE7QString": {
+    "addr": 0,
+    "size": 1052,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_SystemConfigD4Ev": {
+    "addr": 1101965000,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QString6latin1Ev": {
+    "addr": 0,
+    "size": 104,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QCacheIiE5clearEv": {
+    "addr": 1102109220,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN13AM_ActionDataC1Ev": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog4showEv": {
+    "addr": 0,
+    "size": 704,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QGCache11find_stringERK7QStringb": {
+    "addr": 0,
+    "size": 88,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QCacheIiE10deleteItemEPv": {
+    "addr": 1102109528,
+    "size": 20,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN11QMapPrivateI7QStringS0_EC4EPKS1_": {
+    "addr": 1102004756,
+    "size": 296,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager16addAppToMainMenuERK7QStringS2_i": {
+    "addr": 1102055452,
+    "size": 3308,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_SystemConfigC2Ev": {
+    "addr": 1101964972,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_SecurityManager14verifySecurityERK7QStringPcPiS4_": {
+    "addr": 1102120024,
+    "size": 316,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN20AM_MainMenuInterfaceD4Ev": {
+    "addr": 1102109576,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QWidget6metricEi": {
+    "addr": 0,
+    "size": 204,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget13paletteChangeERK8QPalette": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterface16staticMetaObjectEv": {
+    "addr": 1102145096,
+    "size": 220,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QGList6removeEPv": {
+    "addr": 0,
+    "size": 100,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGListD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGListD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QDialog15minimumSizeHintEv": {
+    "addr": 0,
+    "size": 320,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget12focusInEventEP11QFocusEvent": {
+    "addr": 0,
+    "size": 156,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Global17CMCCFlexBitEnableEv": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGArrayC2ERKS_": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_EmbeddedLinkD4Ev": {
+    "addr": 1102005472,
+    "size": 132,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13UTIL_Language22getLanguageIdByLanCodeE7QString": {
+    "addr": 0,
+    "size": 100,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK6QCacheI7QStringE5countEv": {
+    "addr": 1102109356,
+    "size": 28,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN17QMapConstIteratorI7QStringP12AM_AppObjectE3incEv": {
+    "addr": 1102101564,
+    "size": 116,
+    "bind": 2,
+    "defined": true
+  },
+  "DRM_SP_ActivateProtectedApp": {
+    "addr": 0,
+    "size": 84,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnk15setAppLockValueEi": {
+    "addr": 1101995712,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget13focusOutEventEP11QFocusEvent": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup15setS3KillStatusEb": {
+    "addr": 1102140480,
+    "size": 696,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager20getAppNameByFullPathERK7QStringRS0_": {
+    "addr": 1102097080,
+    "size": 952,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager28getAppAutoStartStatusFromDmtERK7QString": {
+    "addr": 1102098032,
+    "size": 1164,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_FolderC2Ev": {
+    "addr": 1101996128,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView13focusOutEventEP11QFocusEvent": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17SETUP_SET_Manager14getSettingInfoE7QStringS0_RS0_S0_b": {
+    "addr": 0,
+    "size": 412,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager15setAppLockValueERK5QUuidi": {
+    "addr": 1102014392,
+    "size": 1256,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget14setMinimumSizeEii": {
+    "addr": 0,
+    "size": 244,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView9addColumnERK7QStringi": {
+    "addr": 0,
+    "size": 104,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget10closeEventEP11QCloseEvent": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QDataStreamC1E6QArrayIcEi": {
+    "addr": 0,
+    "size": 96,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QWidget10sizePolicyEv": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN4QPTF12getPtfPixmapEv": {
+    "addr": 0,
+    "size": 160,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManagerD4Ev": {
+    "addr": 1102011876,
+    "size": 628,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_SystemConfigC1Ev": {
+    "addr": 1101964976,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_Setup22setDisableEnableStatusEb": {
+    "addr": 1102139084,
+    "size": 696,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManagerC2EP7QObjectPKc": {
+    "addr": 1102011056,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK9QListView8sizeHintEv": {
+    "addr": 0,
+    "size": 492,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget10enterEventEP6QEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK12AM_AppObject17getAppLockEnabledEv": {
+    "addr": 1101987940,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager15addAppToAutoRunERK7QString": {
+    "addr": 1102079368,
+    "size": 828,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_SecurityManager15parseSignedFileERK7QString": {
+    "addr": 1102120340,
+    "size": 3256,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14QCheckListItem5setOnEb": {
+    "addr": 0,
+    "size": 188,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_Info16updateInfoStringE7QString": {
+    "addr": 1102113632,
+    "size": 128,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZdlPv": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMetaObject12new_metadataEi": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QCheckListItemC2EP9QListViewRK7QStringNS_4TypeE": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN22AM_GroupListScrollViewC2E5QListI9AM_FolderE7QStringP7QWidget": {
+    "addr": 1102110848,
+    "size": 188,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK5QUuid8toStringEv": {
+    "addr": 0,
+    "size": 1932,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11AM_ShortcutC2Ev": {
+    "addr": 1102009332,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QFrame12setFrameRectERK5QRect": {
+    "addr": 0,
+    "size": 140,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog13keyPressEventEP9QKeyEvent": {
+    "addr": 0,
+    "size": 592,
+    "bind": 1,
+    "defined": false
+  },
+  "system": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "DRM_SP_ValidateNativeAppRights": {
+    "addr": 0,
+    "size": 108,
+    "bind": 1,
+    "defined": false
+  },
+  "chmod": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_EmbeddedLink6invokeERK20AM_LauncherInterface": {
+    "addr": 1102005604,
+    "size": 164,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QObject22activate_signal_strrefEPKcRK7QString": {
+    "addr": 0,
+    "size": 264,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QCacheI7QStringE5clearEv": {
+    "addr": 1102109224,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7ZConfig22getGroupEntriesKeyListERK7QString": {
+    "addr": 0,
+    "size": 936,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget10updateMaskEv": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager19appLockValueChangedEv": {
+    "addr": 1102147056,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QFile10encodeNameERK7QString": {
+    "addr": 0,
+    "size": 44,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterface9modifyAppERK7QStringS2_S2_S2_": {
+    "addr": 1101964860,
+    "size": 40,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager9classNameEv": {
+    "addr": 1102145596,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlgD4Ev": {
+    "addr": 1102109908,
+    "size": 88,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget21backgroundColorChangeERK6QColor": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Global17getInstalledQtDirENS_6DeviceE": {
+    "addr": 0,
+    "size": 584,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15QMapPrivateBase18removeAndRebalanceEP12QMapNodeBaseRS1_S2_S2_": {
+    "addr": 0,
+    "size": 952,
+    "bind": 1,
+    "defined": false
+  },
+  "_init": {
+    "addr": 1101956668,
+    "size": 0,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QString3midEjj": {
+    "addr": 0,
+    "size": 308,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget17setKeyCompressionEb": {
+    "addr": 0,
+    "size": 52,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup12setS3BaseURLE7QString": {
+    "addr": 1102133064,
+    "size": 1152,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView22contentsMouseMoveEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 412,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject10childEventEP11QChildEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "UTIL_GetSpnDisplayedStatus": {
+    "addr": 0,
+    "size": 68,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN22AM_GroupListScrollViewD0Ev": {
+    "addr": 1102150516,
+    "size": 72,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget7setIconERK7QPixmap": {
+    "addr": 0,
+    "size": 348,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7DmtDataC1Ev": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17AM_AppLockManagerD2Ev": {
+    "addr": 1102102824,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QString7replaceERK7QRegExpRKS_": {
+    "addr": 0,
+    "size": 176,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObjectC2EPS_PKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "malloc": {
+    "addr": 0,
+    "size": 488,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog4moveEii": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlgC2EP7QWidgetPKc": {
+    "addr": 1102109768,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QFile4openEi": {
+    "addr": 0,
+    "size": 1084,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObject4dumpEv": {
+    "addr": 1101987964,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager15getOpenWithAppsERK7QStringR5QListINS_11OpenWithAppEE": {
+    "addr": 1102053524,
+    "size": 1928,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget8reparentEPS_jRK6QPointb": {
+    "addr": 0,
+    "size": 880,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10QBoxLayout9addWidgetEP7QWidgetii": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN22AM_GroupListScrollView16staticMetaObjectEv": {
+    "addr": 1102150200,
+    "size": 240,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK12AM_AppObject10getBigIconEv": {
+    "addr": 1101984520,
+    "size": 1624,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget9hideEventEP10QHideEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN22AM_GroupListScrollView11slotClickedEP13QListViewItem": {
+    "addr": 1102112164,
+    "size": 144,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView14setColumnWidthEii": {
+    "addr": 0,
+    "size": 100,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn36_N22AM_GroupListScrollViewD0Ev": {
+    "addr": 1102150596,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN15QMapPrivateBase9rebalanceEP12QMapNodeBaseRS1_": {
+    "addr": 0,
+    "size": 320,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QString8fromUtf8EPKci": {
+    "addr": 0,
+    "size": 184,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QString4findERKS_ib": {
+    "addr": 0,
+    "size": 508,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Folder6removeEPK12AM_AppObject": {
+    "addr": 1102003584,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget17setMicroFocusHintEiiiib": {
+    "addr": 0,
+    "size": 144,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem10removeItemEPS_": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn48_N22AM_GroupListScrollViewD0Ev": {
+    "addr": 1102150588,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN10Idle_Setup18getDefaultShortcutEi": {
+    "addr": 1102143728,
+    "size": 164,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QDataStreamD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView22viewportDragLeaveEventEP15QDragLeaveEvent": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager22slotReloadAppLockValueEv": {
+    "addr": 1102051544,
+    "size": 1788,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QDialog10setDefaultEP11QPushButton": {
+    "addr": 0,
+    "size": 284,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK14AM_StandardDlg9classNameEv": {
+    "addr": 1102149276,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QCopChannel4sendERK8QCStringS2_": {
+    "addr": 0,
+    "size": 108,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_EmbeddedLink12createObjectERK4QMapI7QStringS1_E": {
+    "addr": 1102005768,
+    "size": 1564,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget7setFontERK5QFont": {
+    "addr": 0,
+    "size": 328,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget8setFRectERK5QRect": {
+    "addr": 0,
+    "size": 260,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13AM_AppFactoryC1Ev": {
+    "addr": 1102010896,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface18getRegistryManagerEv": {
+    "addr": 1101964952,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget17setUpdatesEnabledEb": {
+    "addr": 0,
+    "size": 52,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN5QFile5flushEv": {
+    "addr": 0,
+    "size": 32,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView14setContentsPosEii": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMapPrivateI7QStringP12AM_AppObjectE6insertEP12QMapNodeBaseS5_RKS0_": {
+    "addr": 1102102016,
+    "size": 284,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget13showMaximizedEv": {
+    "addr": 0,
+    "size": 352,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK13AM_ActionData6invokeEv": {
+    "addr": 0,
+    "size": 236,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup9setS3InfoEbb": {
+    "addr": 1102131800,
+    "size": 1264,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QString10fromLatin1EPKci": {
+    "addr": 0,
+    "size": 132,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_EmbeddedLink4dumpEv": {
+    "addr": 1102007332,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11AM_MimeType8instanceEv": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem9itemBelowEv": {
+    "addr": 0,
+    "size": 148,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlgD0Ev": {
+    "addr": 1102109900,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QStringC1ERKS_": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QString14makeSharedNullEv": {
+    "addr": 0,
+    "size": 92,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager20removeAppFromAutoRunERK5QUuid": {
+    "addr": 1102080368,
+    "size": 172,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager21removeAppFromMainMenuERK7QStringb": {
+    "addr": 1102075508,
+    "size": 3648,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZThn36_NK7QWidget15graphicsContextEb": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget17mouseReleaseEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget13setFocusProxyEPS_": {
+    "addr": 0,
+    "size": 188,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObject14getDefaultNameEv": {
+    "addr": 1101980492,
+    "size": 1012,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface13getAllAppListER5QListI12AM_AppObjectE": {
+    "addr": 1101964640,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_Setup21getIgnoreOTAUrlUpdateEv": {
+    "addr": 1102138080,
+    "size": 1004,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QMapPrivateI7QStringP12AM_AppObjectE5clearEP8QMapNodeIS0_S2_E": {
+    "addr": 1102101020,
+    "size": 140,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN11QMetaObject14new_metaaccessEi": {
+    "addr": 0,
+    "size": 32,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_SystemConfigD2Ev": {
+    "addr": 1101964984,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK6QCacheIiE5countEv": {
+    "addr": 1102109500,
+    "size": 28,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget13showMinimizedEv": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager16createConfigFileENS_11RegFileTypeE": {
+    "addr": 1102049152,
+    "size": 404,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface12createFolderERK7QStringS2_S2_S2_": {
+    "addr": 1101964772,
+    "size": 40,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13AM_ActionData20setOpenWithSystemAppEv": {
+    "addr": 0,
+    "size": 64,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem10insertItemEPS_": {
+    "addr": 0,
+    "size": 240,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13AM_AppFactoryC2Ev": {
+    "addr": 1102010892,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager2trEPKc": {
+    "addr": 1102145748,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView14clearSelectionEv": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZeqPKcRK7QString": {
+    "addr": 0,
+    "size": 28,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_Info8setIconsEv": {
+    "addr": 1102113624,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfig10writeEntryERK7QStringS2_RK11QStringListRK5QChar": {
+    "addr": 0,
+    "size": 380,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN5QListI9AM_FolderE5clearEv": {
+    "addr": 1102112364,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN11AM_ShortcutD1Ev": {
+    "addr": 1102009448,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager13getAppObjByIdERK5QUuid": {
+    "addr": 1102015648,
+    "size": 264,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_EmbeddedLinkD1Ev": {
+    "addr": 1102005456,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QGList4nextEv": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMapPrivateI7QStringS0_E5clearEP8QMapNodeIS0_S0_E": {
+    "addr": 1102004292,
+    "size": 184,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QGCache13insert_stringERK7QStringPvii": {
+    "addr": 0,
+    "size": 260,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget13dragMoveEventEP14QDragMoveEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QStringData10deleteSelfEv": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObject7setNameERK7QString": {
+    "addr": 1101981504,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView17contentsDropEventEP10QDropEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9AM_Folder10getAppListER5QListI12AM_AppObjectE": {
+    "addr": 1102003692,
+    "size": 44,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager12initRegistryEv": {
+    "addr": 1102013716,
+    "size": 28,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager17handleCardPlugOutEv": {
+    "addr": 1102095660,
+    "size": 1420,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QFrame9drawFrameEP8QPainter": {
+    "addr": 0,
+    "size": 892,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView11removeChildEP7QObject": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManagerC4EP7QObjectPKc": {
+    "addr": 1102011064,
+    "size": 788,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObjectC2ENS_4TypeE": {
+    "addr": 1101965468,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlg4initEv": {
+    "addr": 1102109996,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfig11groupExistsERK7QString": {
+    "addr": 0,
+    "size": 1020,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGList6appendEPv": {
+    "addr": 0,
+    "size": 108,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView5clearEv": {
+    "addr": 0,
+    "size": 492,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK14QCheckListItem5widthERK12QFontMetricsPK9QListViewi": {
+    "addr": 0,
+    "size": 168,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView10wheelEventEP11QWheelEvent": {
+    "addr": 0,
+    "size": 276,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13AM_ActionDataD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGList12compareItemsEPvS0_": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN4QPTF10globalRectEv": {
+    "addr": 0,
+    "size": 340,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QGListIteratorppEv": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_SetupD1Ev": {
+    "addr": 1102123988,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_FolderD0Ev": {
+    "addr": 1101996296,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15RES_ICON_ReaderD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject16disconnectNotifyEPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget4hideEv": {
+    "addr": 0,
+    "size": 556,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QDataStreamlsEi": {
+    "addr": 0,
+    "size": 216,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager10createUuidEv": {
+    "addr": 1102048696,
+    "size": 380,
+    "bind": 1,
+    "defined": true
+  },
+  "mktime": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem8moveItemEPS_": {
+    "addr": 0,
+    "size": 184,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QFileInfoC1ERK7QString": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGList4readER11QDataStreamRPv": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManagerD0Ev": {
+    "addr": 1102011868,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QString4leftEj": {
+    "addr": 0,
+    "size": 284,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget5closeEb": {
+    "addr": 0,
+    "size": 472,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QCacheI7QStringE10deleteItemEPv": {
+    "addr": 1102109384,
+    "size": 116,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN11QScrollView15setVBarGeometryER10QScrollBariiii": {
+    "addr": 0,
+    "size": 56,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView22contentsDragLeaveEventEP15QDragLeaveEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGCacheD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_InfoD4Ev": {
+    "addr": 1102113440,
+    "size": 184,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QRegExpC1ERK7QStringbb": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView8addChildEP7QWidgetii": {
+    "addr": 0,
+    "size": 1748,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView18viewportPaintEventEP11QPaintEvent": {
+    "addr": 0,
+    "size": 608,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView13keyPressEventEP9QKeyEvent": {
+    "addr": 0,
+    "size": 3720,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn36_NK7QWidget12bytesPerLineEv": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QArrayIcED0Ev": {
+    "addr": 1102101160,
+    "size": 56,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN14QCheckListItem5setupEv": {
+    "addr": 0,
+    "size": 112,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_EmbeddedLinkC1Ev": {
+    "addr": 1102005344,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView8takeItemEP13QListViewItem": {
+    "addr": 0,
+    "size": 32,
+    "bind": 1,
+    "defined": false
+  },
+  "UTIL_GetServiceName": {
+    "addr": 0,
+    "size": 108,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17AM_AppLockManagerC4EP7QObjectPKc": {
+    "addr": 1102102432,
+    "size": 392,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_Setup9getS3InfoERbS0_": {
+    "addr": 1102130560,
+    "size": 1240,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget10paintEventEP11QPaintEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView17viewportDropEventEP10QDropEvent": {
+    "addr": 0,
+    "size": 116,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN26AM_GroupListScrollViewItemC4E7QStringP9QListViewRKS0_N14QCheckListItem4TypeE": {
+    "addr": 1102112748,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface2trEPKcS1_": {
+    "addr": 1102145016,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager2trEPKcS1_": {
+    "addr": 1102148620,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QString8containsEPKcb": {
+    "addr": 0,
+    "size": 128,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager14addAppToFolderERK7QStringS2_i": {
+    "addr": 1102147956,
+    "size": 428,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView25contentsMouseReleaseEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 900,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget13setFixedWidthEi": {
+    "addr": 0,
+    "size": 100,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_SetupD2Ev": {
+    "addr": 1102123980,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfig9readEntryERK7QStringS2_S2_": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject22activate_signal_stringEPKc7QString": {
+    "addr": 0,
+    "size": 356,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QStringaSERKS_": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Global13getPreloadDirEv": {
+    "addr": 0,
+    "size": 56,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGListD0Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager12changeFolderERK7QStringS2_S2_i": {
+    "addr": 1102045372,
+    "size": 3324,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK5QTime6secondEv": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15RES_ICON_Reader7getIconEPKcb": {
+    "addr": 0,
+    "size": 804,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QTextStreamC1EP9QIODevice": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK13QListViewItem6pixmapEi": {
+    "addr": 0,
+    "size": 80,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget5eventEP6QEvent": {
+    "addr": 0,
+    "size": 1792,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17AM_AppLockManager15getAppLockValueERK5QUuid": {
+    "addr": 1102103188,
+    "size": 548,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlgC4EP7QWidgetPKc": {
+    "addr": 1102109776,
+    "size": 108,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK5QListI9AM_FolderE5countEv": {
+    "addr": 1102112432,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QDialog11resizeEventEP12QResizeEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGArray9duplicateERKS_": {
+    "addr": 0,
+    "size": 284,
+    "bind": 1,
+    "defined": false
+  },
+  "AM_RegistryManager_getAppParentFolderUid": {
+    "addr": 1102099956,
+    "size": 352,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QVBoxLayoutC1EP7QWidgetiiPKc": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QCheckListItem10paintFocusEP8QPainterRK11QColorGroupRK5QRect": {
+    "addr": 0,
+    "size": 320,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterface14initMetaObjectEv": {
+    "addr": 1102144820,
+    "size": 116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK12QPaintDevice7fontInfEP5QFonti": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QString7compareERKS_": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QRegExpD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject2trEPKcS1_": {
+    "addr": 0,
+    "size": 108,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlgC1EP7QWidgetPKc": {
+    "addr": 1102109772,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN4QPTF10setPtfTextERK7QString": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13AM_AppFactoryD2Ev": {
+    "addr": 1102010904,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget9showEventEP10QShowEvent": {
+    "addr": 0,
+    "size": 76,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager14initMetaObjectEv": {
+    "addr": 1102145632,
+    "size": 116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_EmbeddedLinkD0Ev": {
+    "addr": 1102005464,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView23viewportMousePressEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 164,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView16staticMetaObjectEv": {
+    "addr": 0,
+    "size": 3052,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7ZConfig10writeEntryERK7QStringS2_S2_": {
+    "addr": 0,
+    "size": 2164,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMetaObject15set_slot_accessEPN9QMetaData6AccessE": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZeqRK7QStringS1_": {
+    "addr": 0,
+    "size": 112,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK5QListI12AM_AppObjectE5countEv": {
+    "addr": 1102005240,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN4QPTF11getPacketIdEv": {
+    "addr": 1102149876,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7ZConfig10clearGroupERK7QString": {
+    "addr": 0,
+    "size": 1892,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget8setCRectERK5QRect": {
+    "addr": 0,
+    "size": 260,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_InfoC2EP7QObject": {
+    "addr": 1102113072,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZThn48_N14AM_StandardDlgD1Ev": {
+    "addr": 1102110816,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget11styleChangeER6QStyle": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget21mouseDoubleClickEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject11removeChildEPS_": {
+    "addr": 0,
+    "size": 248,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK18AM_RegistryManager10getJavaObjERKi": {
+    "addr": 1102015912,
+    "size": 160,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager11clearAppMapEv": {
+    "addr": 1102012504,
+    "size": 1212,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7DmtData9GetStringER8DMString": {
+    "addr": 0,
+    "size": 304,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN4QPTF14getPackageTypeEv": {
+    "addr": 0,
+    "size": 708,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QTextStreamlsEc": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QFrame12setLineWidthEi": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup18setEnableS3FeatureEb": {
+    "addr": 1102135368,
+    "size": 1008,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QGList7findRefEPvb": {
+    "addr": 0,
+    "size": 92,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup15getShortcutItemER17SETUP_SET_Manageri": {
+    "addr": 1102142668,
+    "size": 1060,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface12deleteFolderERK7QString": {
+    "addr": 1101964812,
+    "size": 24,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN4QPTF11sendPackageEi5QRectii7QStringS1_": {
+    "addr": 0,
+    "size": 428,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget10wheelEventEP11QWheelEvent": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup15getS3KillStatusEv": {
+    "addr": 1102139780,
+    "size": 700,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView11eventFilterEP7QObjectP6QEvent": {
+    "addr": 0,
+    "size": 488,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17AM_AppLockManagerD1Ev": {
+    "addr": 1102102832,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QFileInfoD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK12AM_AppObject7getIconER7QPixmapNS_8IconTypeE": {
+    "addr": 1101981568,
+    "size": 2952,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7DmtDataD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_FolderC1Ev": {
+    "addr": 1101996132,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfig10writeEntryERK7QStringS2_i": {
+    "addr": 0,
+    "size": 192,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK12AM_AppObject10getBigIconER7QPixmap": {
+    "addr": 1101981544,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14QCheckListItem13paintBranchesEP8QPainterRK11QColorGroupiiiN2Qt8GUIStyleE": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11AM_Shortcut15setAppLockValueEi": {
+    "addr": 1102010884,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN11AM_Shortcut12createObjectERK4QMapI7QStringS1_E": {
+    "addr": 1102009688,
+    "size": 1188,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_AppLnkD1Ev": {
+    "addr": 1101988156,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QDialog16staticMetaObjectEv": {
+    "addr": 0,
+    "size": 568,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView10setPaletteERK8QPalette": {
+    "addr": 0,
+    "size": 56,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager25notifyRemoveAppFromFolderERK7QStringS2_": {
+    "addr": 1102099464,
+    "size": 252,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QCopChannel4sendERK8QCStringS2_RK6QArrayIcE": {
+    "addr": 0,
+    "size": 104,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem7setOpenEb": {
+    "addr": 0,
+    "size": 428,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnkC1Ev": {
+    "addr": 1101987972,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN22AM_GroupListScrollViewD1Ev": {
+    "addr": 1102150440,
+    "size": 60,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN17SETUP_SET_Manager14setSettingInfoE7QStringS0_S0_b": {
+    "addr": 0,
+    "size": 468,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView21viewportDragMoveEventEP14QDragMoveEvent": {
+    "addr": 0,
+    "size": 116,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup14setS3AddNewURLE7QString": {
+    "addr": 1102134216,
+    "size": 1152,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_Global16getAppWriteAmDirEv": {
+    "addr": 0,
+    "size": 852,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView13setColumnTextEiRK8QIconSetRK7QString": {
+    "addr": 0,
+    "size": 100,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView17setVScrollBarModeENS_13ScrollBarModeE": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView14resizeContentsEii": {
+    "addr": 0,
+    "size": 392,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject5eventEP6QEvent": {
+    "addr": 0,
+    "size": 132,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9ZLanguage21getSystemLanguageCodeEv": {
+    "addr": 0,
+    "size": 392,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager16addAppToRegistryERKNS_12AM_AppRecordER7QStringRKS3_N9AM_Global6DeviceEi": {
+    "addr": 1102058760,
+    "size": 16748,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_Global12getBlockSizeERK7QString": {
+    "addr": 0,
+    "size": 92,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView11setSelectedEP13QListViewItemb": {
+    "addr": 0,
+    "size": 292,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN4QPTF12getPtfIconIdEv": {
+    "addr": 0,
+    "size": 148,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView11resizeEventEP12QResizeEvent": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12QMapIteratorI7QStringP12AM_AppObjectE3incEv": {
+    "addr": 1102101448,
+    "size": 116,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN15PHONE_MsgClientC1EP7QObjectPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "UTIL_GetRFMode": {
+    "addr": 0,
+    "size": 32,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget11unsetCursorEv": {
+    "addr": 0,
+    "size": 132,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager14changeFileAttrERK7QString": {
+    "addr": 1102049076,
+    "size": 76,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface19getAppLnkBySerialIdERK7QString": {
+    "addr": 1101964736,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QString6insertEjRKS_": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13SETUP_UtilityC1Ev": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject20badSuperclassWarningEPKcS1_": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QStringList5splitERK5QCharRK7QStringb": {
+    "addr": 0,
+    "size": 152,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManagerD1Ev": {
+    "addr": 1102011860,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_FolderC4Ev": {
+    "addr": 1101996136,
+    "size": 60,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObjectC4Ev": {
+    "addr": 1101965040,
+    "size": 428,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager2trEPKc": {
+    "addr": 1102148540,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK13QListViewItem4textEi": {
+    "addr": 0,
+    "size": 112,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17AM_AppLockManager18slotChannelMessageERK8QCStringRK6QArrayIcE": {
+    "addr": 1102108688,
+    "size": 336,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView15setHBarGeometryER10QScrollBariiii": {
+    "addr": 0,
+    "size": 56,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager12appInstalledEN9AM_Global6DeviceERK7QStringS4_i": {
+    "addr": 1102147092,
+    "size": 508,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget14dragEnterEventEP15QDragEnterEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnkD2Ev": {
+    "addr": 1101988148,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK9QListView6headerEv": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManagerD2Ev": {
+    "addr": 1102011852,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_Folder5clearEv": {
+    "addr": 1102003620,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_Folder12createObjectERK4QMapI7QStringS1_E": {
+    "addr": 1101996452,
+    "size": 952,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11AM_ShortcutD2Ev": {
+    "addr": 1102009440,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView18drawContentsOffsetEP8QPainteriiiiii": {
+    "addr": 0,
+    "size": 3272,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12QPaintDevice3cmdEiP8QPainterP13QPDevCmdParam": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView19viewportResizeEventEP12QResizeEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGArray7newDataEv": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "printf": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListViewC2EP7QWidgetPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14DmtTreeFactory12UninitializeEv": {
+    "addr": 0,
+    "size": 180,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QString5lowerEv": {
+    "addr": 0,
+    "size": 136,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView15setResizePolicyENS_12ResizePolicyE": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_InfoC4EP7QObject": {
+    "addr": 1102113080,
+    "size": 336,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView10insertItemEP13QListViewItem": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObject7getSizeEv": {
+    "addr": 1101986168,
+    "size": 288,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_EmbeddedLinkD2Ev": {
+    "addr": 1102005448,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "chown": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView9showEventEP10QShowEvent": {
+    "addr": 0,
+    "size": 112,
+    "bind": 1,
+    "defined": false
+  },
+  "_fini": {
+    "addr": 1102151432,
+    "size": 0,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK9QFileInfo6existsEv": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView13setColumnTextEiRK7QString": {
+    "addr": 0,
+    "size": 80,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGListC2ERKS_": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "memcpy": {
+    "addr": 0,
+    "size": 1204,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnkC2Ev": {
+    "addr": 1101987968,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QListI9AM_FolderE10deleteItemEPv": {
+    "addr": 1102112440,
+    "size": 36,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN9AM_Folder3addEPK12AM_AppObjecti": {
+    "addr": 1102003456,
+    "size": 128,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN4QPTF10getPtfTextEv": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn36_N14AM_StandardDlgD0Ev": {
+    "addr": 1102110840,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager19appLockValueChangedEv": {
+    "addr": 1102149196,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13QListViewItem9setHeightEi": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7ZConfigC1ERK7QStringb": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget10showNormalEv": {
+    "addr": 0,
+    "size": 252,
+    "bind": 1,
+    "defined": false
+  },
+  "fclose": {
+    "addr": 0,
+    "size": 428,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_InfoD2Ev": {
+    "addr": 1102113416,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15RES_ICON_ReaderC1Ev": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObjectC1ENS_4TypeE": {
+    "addr": 1101965472,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget10leaveEventEP6QEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN8DMStringaSEPKc": {
+    "addr": 0,
+    "size": 148,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget7setMaskERK7QRegion": {
+    "addr": 0,
+    "size": 712,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11AM_ShortcutC1Ev": {
+    "addr": 1102009336,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget14setAcceptDropsEb": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView10setEnabledEb": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager12copyTextFileERK7QStringS2_": {
+    "addr": 1102049556,
+    "size": 860,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QListI9AM_FolderED0Ev": {
+    "addr": 1102112368,
+    "size": 64,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QObject10timerEventEP11QTimerEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView7setOpenEP13QListViewItemb": {
+    "addr": 0,
+    "size": 576,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup15isItemAvailableE10set_item_t": {
+    "addr": 1102141580,
+    "size": 464,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager10getAppNameERK5QUuidR7QString": {
+    "addr": 1102103736,
+    "size": 544,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QWidget12bytesPerLineEv": {
+    "addr": 0,
+    "size": 44,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnk4dumpEv": {
+    "addr": 1101993236,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager20notifyAddAppToFolderERK7QStringS2_i": {
+    "addr": 1102099196,
+    "size": 268,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN4QDirD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12QMapIteratorI7QStringS0_E3decEv": {
+    "addr": 1102004088,
+    "size": 136,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget21setPalettePropagationENS_15PropagationModeE": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QCacheIiED1Ev": {
+    "addr": 1102109108,
+    "size": 56,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK12AM_AppObject15getAppLockValueEv": {
+    "addr": 1101987952,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN15AM_EmbeddedLink25getInvisiblNetLinkFromDmtEP7QStringS1_": {
+    "addr": 1102007336,
+    "size": 1996,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_Carrier_Info2trEPKc": {
+    "addr": 1102150760,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObjectC4ENS_4TypeE": {
+    "addr": 1101965476,
+    "size": 432,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QWidget15graphicsContextEb": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterface12changeFolderERK7QStringS2_S2_i": {
+    "addr": 1101964900,
+    "size": 40,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView15setCornerWidgetEP7QWidget": {
+    "addr": 0,
+    "size": 160,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17QMapConstIteratorI7QStringS0_E3incEv": {
+    "addr": 1102102300,
+    "size": 116,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN10Idle_Setup27getHideS3WhenAutoSelectFailEv": {
+    "addr": 1102136376,
+    "size": 704,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9AM_Global14getInstCardDirEv": {
+    "addr": 0,
+    "size": 320,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView6resizeEii": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK21QListViewItemIterator7currentEv": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager21checkAndUpdateCardAppER12AM_AppObject": {
+    "addr": 1102100800,
+    "size": 40,
+    "bind": 1,
+    "defined": true
+  },
+  "__cxa_finalize": {
+    "addr": 0,
+    "size": 192,
+    "bind": 2,
+    "defined": false
+  },
+  "_ZN18AM_SecurityManagerC1Ev": {
+    "addr": 1102114412,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QObject11insertChildEPS_": {
+    "addr": 0,
+    "size": 248,
+    "bind": 1,
+    "defined": false
+  },
+  "srand": {
+    "addr": 0,
+    "size": 116,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13AM_ActionData8setValueERK7QStringi": {
+    "addr": 0,
+    "size": 128,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QObject15activate_signalEPKc": {
+    "addr": 0,
+    "size": 188,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget14dragLeaveEventEP15QDragLeaveEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView13enabledChangeEb": {
+    "addr": 0,
+    "size": 44,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QPixmapC1Ev": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7ZConfig13readListEntryERK7QStringS2_RK5QChar": {
+    "addr": 0,
+    "size": 308,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget11setIconTextERK7QString": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11AM_Shortcut6invokeERK20AM_LauncherInterface": {
+    "addr": 1102009596,
+    "size": 92,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QDataStreamrsERi": {
+    "addr": 0,
+    "size": 160,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN5QListI9AM_FolderED1Ev": {
+    "addr": 1102112308,
+    "size": 56,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN13AM_AppFactoryD4Ev": {
+    "addr": 1102010920,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget15setActiveWindowEv": {
+    "addr": 0,
+    "size": 48,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN20AM_MainMenuInterface12ShowMainMenuEv": {
+    "addr": 1102109580,
+    "size": 188,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfigD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem8takeItemEPS_": {
+    "addr": 0,
+    "size": 652,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_SetupC1Ev": {
+    "addr": 1102123600,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView23contentsMousePressEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 2300,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_SystemConfig6ezxUidEv": {
+    "addr": 1101965004,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget10fontChangeERK5QFont": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget18setBackgroundColorERK6QColor": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Global12getNativeDirEv": {
+    "addr": 0,
+    "size": 56,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_Carrier_Info13getInfoStringEv": {
+    "addr": 1102113760,
+    "size": 24,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN8QCStringC1EPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlgD2Ev": {
+    "addr": 1102109884,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QMapPrivateI7QStringS0_E12insertSingleERKS0_": {
+    "addr": 1102005052,
+    "size": 188,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK9QListView15minimumSizeHintEv": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK11QMapPrivateI7QStringS0_E4findERKS0_": {
+    "addr": 1101995720,
+    "size": 124,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN9AM_Folder13makeNewRecordER4QMapI7QStringS1_E": {
+    "addr": 1101997404,
+    "size": 6052,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_SetupC2Ev": {
+    "addr": 1102123596,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView12drawContentsEP8QPainteriiii": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterface12getAppObjectERK7QString": {
+    "addr": 1101964724,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14AM_StandardDlg13getMainLayoutEv": {
+    "addr": 1102110740,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_Carrier_Info15signalStrUpdateE7QString": {
+    "addr": 1102151232,
+    "size": 124,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QGArrayD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN4QPTF12ptf_getStateEv": {
+    "addr": 0,
+    "size": 44,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterfaceC2EP18AM_RegistryManagerP7QObjectPKc": {
+    "addr": 1101964336,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QUuidC1ERK7QString": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup16setItemAvailableE10set_item_tb": {
+    "addr": 1102141176,
+    "size": 404,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN14QCheckListItem11stateChangeEb": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_EmbeddedLinkC2Ev": {
+    "addr": 1102005340,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_Setup11setShortcutEi7QString": {
+    "addr": 1102142044,
+    "size": 600,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView22viewportMouseMoveEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 164,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK22AM_GroupListScrollView10metaObjectEv": {
+    "addr": 1102150604,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManagerD4Ev": {
+    "addr": 1102102848,
+    "size": 256,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13QListViewItem7setTextEiRK7QString": {
+    "addr": 0,
+    "size": 520,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QCopChannel12isRegisteredERK8QCString": {
+    "addr": 0,
+    "size": 1500,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn36_NK7QWidget8scanLineEi": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialogD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QStringC1EPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView12frameChangedEv": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17QValueListPrivateI7QStringEC4ERKS1_": {
+    "addr": 1101995844,
+    "size": 284,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN6QCacheI7QStringED0Ev": {
+    "addr": 1102109292,
+    "size": 64,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager22slotReloadAppLockValueEv": {
+    "addr": 1102109024,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager18slotAddAppToFolderERK7QStringS2_i": {
+    "addr": 1102086984,
+    "size": 132,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK7QDialog8sizeHintEv": {
+    "addr": 0,
+    "size": 608,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QGArrayC2Ev": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK15AM_Carrier_Info10metaObjectEv": {
+    "addr": 1102151356,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK12QApplication9translateEPKcS1_S1_": {
+    "addr": 0,
+    "size": 860,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7ZGlobal10getGNBRectEv": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK13QListViewItem16enforceSortOrderEv": {
+    "addr": 0,
+    "size": 308,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN5QFileC1ERK7QString": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN26AM_GroupListScrollViewItemC2E7QStringP9QListViewRKS0_N14QCheckListItem4TypeE": {
+    "addr": 1102112476,
+    "size": 136,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManagerC1EP7QObjectPKc": {
+    "addr": 1102102428,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "free": {
+    "addr": 0,
+    "size": 208,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QTextStream8readLineEv": {
+    "addr": 0,
+    "size": 972,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget22backgroundPixmapChangeERK7QPixmap": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN22AM_GroupListScrollView2trEPKc": {
+    "addr": 1102150040,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QObject7setNameEPKc": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem13setSelectableEb": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnk6invokeERK20AM_LauncherInterface": {
+    "addr": 1101988512,
+    "size": 608,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObject17setAppLockEnabledEb": {
+    "addr": 1101987948,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN21QListViewItemIteratorC1EP9QListView": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QString6numberEii": {
+    "addr": 0,
+    "size": 100,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11AM_ShortcutD0Ev": {
+    "addr": 1102009456,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget10setCaptionERK7QString": {
+    "addr": 0,
+    "size": 200,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK13QListViewItem3keyEib": {
+    "addr": 0,
+    "size": 28,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView12drawContentsEP8QPainter": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK12AM_AppObject12getSmallIconER7QPixmap": {
+    "addr": 1101981552,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObjectC1Ev": {
+    "addr": 1101965036,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "memset": {
+    "addr": 0,
+    "size": 156,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget9moveEventEP10QMoveEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN26AM_GroupListScrollViewItemD1Ev": {
+    "addr": 1102112848,
+    "size": 108,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager20removeAppFromAutoRunERK7QString": {
+    "addr": 1102080540,
+    "size": 1912,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13QListViewItem16invalidateHeightEv": {
+    "addr": 0,
+    "size": 72,
+    "bind": 1,
+    "defined": false
+  },
+  "_Znwj": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QArrayIcE6detachEv": {
+    "addr": 1102102416,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QGArray10deleteDataEPNS_10array_dataE": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK19AM_AppDataInterface9classNameEv": {
+    "addr": 1102144784,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView22viewportDragEnterEventEP15QDragEnterEvent": {
+    "addr": 0,
+    "size": 116,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Folder4dumpEv": {
+    "addr": 1102003764,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager15addAppToAutoRunERK5QUuid": {
+    "addr": 1102080196,
+    "size": 172,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_SecurityManager22verifySecurityByLaunchERK7QStringPcPi": {
+    "addr": 1102115284,
+    "size": 2792,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN4QPTF12setPtfIconIdERK7QString": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK17AM_AppLockManager9classNameEv": {
+    "addr": 1102148388,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager14appNameChangedERK7QString": {
+    "addr": 1102149232,
+    "size": 40,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager2trEPKcS1_": {
+    "addr": 1102145828,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterfaceD0Ev": {
+    "addr": 1101964476,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN19AM_AppDataInterface2trEPKc": {
+    "addr": 1102144936,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN22AM_GroupListScrollViewC1E5QListI9AM_FolderE7QStringP7QWidget": {
+    "addr": 1102111036,
+    "size": 188,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN22AM_GroupListScrollView14initMetaObjectEv": {
+    "addr": 1102149924,
+    "size": 116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QVBoxLayoutC1EP7QLayoutiPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK19AM_AppDataInterface13getAppLnkByIdERK5QUuid": {
+    "addr": 1101964664,
+    "size": 36,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView18contentsWheelEventEP11QWheelEvent": {
+    "addr": 0,
+    "size": 12,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget13enabledChangeEb": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QCheckListItemD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget6polishEv": {
+    "addr": 0,
+    "size": 408,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialogC2EP7QWidgetPKcbj": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13QListViewItem13setExpandableEb": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QDialog6resizeEii": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlgD1Ev": {
+    "addr": 1102109892,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13AM_ActionData10setOpenAppE5QUuid": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlg6slotOkEv": {
+    "addr": 1102110748,
+    "size": 32,
+    "bind": 1,
+    "defined": true
+  },
+  "fopen": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN22AM_GroupListScrollViewC4E5QListI9AM_FolderE7QStringP7QWidget": {
+    "addr": 1102111224,
+    "size": 796,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager13lookUpAppNameERK7QStringRK5QUuidRS0_": {
+    "addr": 1102104280,
+    "size": 4408,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN15AM_Carrier_InfoD1Ev": {
+    "addr": 1102113424,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QStringaSEPKc": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZrsR11QDataStreamR7QString": {
+    "addr": 0,
+    "size": 400,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup17setShortcutFreezeEib": {
+    "addr": 1102143892,
+    "size": 416,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_SecurityManagerD2Ev": {
+    "addr": 1102114772,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QPixmapaSERKS_": {
+    "addr": 0,
+    "size": 320,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMapPrivateI7QStringP12AM_AppObjectE12insertSingleERKS0_": {
+    "addr": 1102101804,
+    "size": 212,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager12createObjectENS_11RegFileTypeER7ZConfigS2_": {
+    "addr": 1102021424,
+    "size": 9044,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7ZConfig10writeEntryERK7QStringS2_b": {
+    "addr": 0,
+    "size": 192,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QGList5clearEv": {
+    "addr": 0,
+    "size": 172,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QString5toIntEPbi": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn36_N22AM_GroupListScrollViewD1Ev": {
+    "addr": 1102150508,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager14getAutoRunAppsER5QListI9AM_AppLnkE": {
+    "addr": 1102053332,
+    "size": 192,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QGListC2Ev": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QDateTime15currentDateTimeEv": {
+    "addr": 0,
+    "size": 104,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager9modifyAppERK7QStringS2_S2_S2_": {
+    "addr": 1102043204,
+    "size": 2168,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QFile6existsERK7QString": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget9dropEventEP10QDropEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK18AM_RegistryManager21getLockEnabledAppListER5QListI12AM_AppObjectE": {
+    "addr": 1102013744,
+    "size": 360,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager17slotReloadAppNameERK7QString": {
+    "addr": 1102109032,
+    "size": 76,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager14initMetaObjectEv": {
+    "addr": 1102148424,
+    "size": 116,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13AM_ActionData9setActionERK7QString": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK5QDate5monthEv": {
+    "addr": 0,
+    "size": 40,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZlsR11QDataStreamRK7QString": {
+    "addr": 0,
+    "size": 344,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK19AM_AppDataInterface10getJavaObjERKi": {
+    "addr": 1101964700,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK18AM_RegistryManager13getRootFolderEv": {
+    "addr": 1102016072,
+    "size": 132,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN20AM_MainMenuInterfaceC4Ev": {
+    "addr": 1102109556,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManager8instanceEv": {
+    "addr": 1102103104,
+    "size": 84,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11AM_MimeType14getMimeIdByExtERK7QString": {
+    "addr": 0,
+    "size": 892,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView14paintEmptyAreaEP8QPainterRK5QRect": {
+    "addr": 0,
+    "size": 104,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QTextStreamD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup5flushEv": {
+    "addr": 1102144756,
+    "size": 28,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QObject13connectNotifyEPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN18AM_RegistryManager16slotAppInstalledEN9AM_Global6DeviceERK7QStringS4_i": {
+    "addr": 1102082452,
+    "size": 3224,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN5QListI12AM_AppObjectE10deleteItemEPv": {
+    "addr": 1102005304,
+    "size": 36,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget14mouseMoveEventEP11QMouseEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget11customEventEP12QCustomEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMapPrivateI7QStringP12AM_AppObjectE4copyEP8QMapNodeIS0_S2_E": {
+    "addr": 1102101216,
+    "size": 232,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QWidget11setGeometryERK5QRect": {
+    "addr": 0,
+    "size": 68,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK18AM_RegistryManager15getAppLockValueERK5QUuid": {
+    "addr": 1102014104,
+    "size": 288,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN20AM_MainMenuInterfaceC2Ev": {
+    "addr": 1102109548,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QDialog6acceptEv": {
+    "addr": 0,
+    "size": 24,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlg2trEPKcS1_": {
+    "addr": 1102149508,
+    "size": 80,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager12deleteFolderERK7QString": {
+    "addr": 1102039752,
+    "size": 2460,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QDialog11setGeometryERK5QRect": {
+    "addr": 0,
+    "size": 28,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView14setCurrentItemEP13QListViewItem": {
+    "addr": 0,
+    "size": 284,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView10removeItemEP13QListViewItem": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QCollection10deleteItemEPv": {
+    "addr": 0,
+    "size": 20,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN5QListI12AM_AppObjectE5clearEv": {
+    "addr": 1102004224,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN17AM_AppLockManagerC2EP7QObjectPKc": {
+    "addr": 1102102424,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN13AM_AppFactoryC4Ev": {
+    "addr": 1102010900,
+    "size": 4,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_SetupC4Ev": {
+    "addr": 1102123604,
+    "size": 376,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK12AM_AppObject16getAnimationIconER7QPixmap": {
+    "addr": 1101981560,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager16handleCardPlugInENS_11RegFileTypeE": {
+    "addr": 1102088816,
+    "size": 6844,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QPixmapC1ERK7QStringPKcNS_9ColorModeE": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget11setGeometryEiiii": {
+    "addr": 0,
+    "size": 60,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Folder14getAppPositionEPK12AM_AppObject": {
+    "addr": 1102003736,
+    "size": 28,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN7QWidget16setMouseTrackingEb": {
+    "addr": 0,
+    "size": 52,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14AM_StandardDlg10slotCancelEv": {
+    "addr": 1102110780,
+    "size": 28,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN10Idle_Setup11getShortcutEi": {
+    "addr": 1102142644,
+    "size": 24,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN17SETUP_SET_ManagerC1E7QStringb": {
+    "addr": 0,
+    "size": 120,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN12AM_AppObjectD1Ev": {
+    "addr": 1101965916,
+    "size": 8,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN9QListView13setItemMarginEi": {
+    "addr": 0,
+    "size": 84,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN10Idle_Setup13getOTAEnabledEv": {
+    "addr": 1102137080,
+    "size": 1000,
+    "bind": 1,
+    "defined": true
+  },
+  "rand": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN15AM_SystemConfig6DRMUidEv": {
+    "addr": 1101965020,
+    "size": 12,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager18slotChannelMessageERK8QCStringRK6QArrayIcE": {
+    "addr": 1102050416,
+    "size": 1128,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK4QDir9entryListERK7QStringii": {
+    "addr": 0,
+    "size": 216,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK14QCheckListItem4textEi": {
+    "addr": 1102112828,
+    "size": 20,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK9QFileInfo4sizeEv": {
+    "addr": 0,
+    "size": 56,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget18setFontPropagationENS_15PropagationModeE": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN26AM_GroupListScrollViewItemD0Ev": {
+    "addr": 1102112956,
+    "size": 116,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN11QTextStreamlsERK7QString": {
+    "addr": 0,
+    "size": 364,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9QFileInfo6isFileEv": {
+    "addr": 0,
+    "size": 76,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN19AM_AppDataInterface11changeOrderERK7QStringRK5QListIS0_E": {
+    "addr": 1101964836,
+    "size": 24,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN12AM_AppObject9getVenderEv": {
+    "addr": 1101986144,
+    "size": 24,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN6QCacheI7QStringED1Ev": {
+    "addr": 1102109164,
+    "size": 56,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN13QListViewItem9setPixmapEiRK7QPixmap": {
+    "addr": 0,
+    "size": 868,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7DmtData10GetBooleanERb": {
+    "addr": 0,
+    "size": 176,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN7QWidget7destroyEbb": {
+    "addr": 0,
+    "size": 396,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9QListView9addColumnERK8QIconSetRK7QStringi": {
+    "addr": 0,
+    "size": 104,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN4QPTF11sendPackageEv": {
+    "addr": 0,
+    "size": 196,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QCopChannelC1ERK8QCStringP7QObjectPKc": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QMapPrivateI7QStringS0_E6insertEP12QMapNodeBaseS3_RKS0_": {
+    "addr": 1102003768,
+    "size": 320,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN7QObject16checkConnectArgsEPKcPKS_S1_": {
+    "addr": 0,
+    "size": 212,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN4QDir12cleanDirPathERK7QString": {
+    "addr": 0,
+    "size": 1508,
+    "bind": 1,
+    "defined": false
+  },
+  "UTIL_GetNetworkStatus": {
+    "addr": 0,
+    "size": 92,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QCacheIiED0Ev": {
+    "addr": 1102109228,
+    "size": 64,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZNK7QObject9classNameEv": {
+    "addr": 0,
+    "size": 36,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK9QFileInfo7dirPathEb": {
+    "addr": 0,
+    "size": 376,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN13AM_ActionData8setValueERK7QStringS2_": {
+    "addr": 0,
+    "size": 1240,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK7QWidget14heightForWidthEi": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_FolderD4Ev": {
+    "addr": 1101996304,
+    "size": 148,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager12loadMenuTreeEv": {
+    "addr": 1102030468,
+    "size": 3328,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZeqRK7QStringPKc": {
+    "addr": 0,
+    "size": 168,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN17SETUP_SET_ManagerD1Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN11QScrollView21contentsDragMoveEventEP14QDragMoveEvent": {
+    "addr": 0,
+    "size": 4,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_Folder4initEv": {
+    "addr": 1101996196,
+    "size": 84,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN11QScrollView10setMarginsEiiii": {
+    "addr": 0,
+    "size": 96,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14DmtTreeFactory10InitializeEv": {
+    "addr": 0,
+    "size": 176,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN9AM_AppLnk14getGidByStringERK7QString": {
+    "addr": 1101995316,
+    "size": 372,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZN18AM_RegistryManager19getSystemFolderNameERK7QStringRS0_": {
+    "addr": 1102087116,
+    "size": 1000,
+    "bind": 1,
+    "defined": true
+  },
+  "_ZNK14AM_StandardDlg10metaObjectEv": {
+    "addr": 1102149884,
+    "size": 4,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN12AM_AppObject4initEv": {
+    "addr": 1101981512,
+    "size": 32,
+    "bind": 1,
+    "defined": true
+  },
+  "sync": {
+    "addr": 0,
+    "size": 16,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZNK4QDir7absPathEv": {
+    "addr": 0,
+    "size": 352,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN14QGListIteratorD2Ev": {
+    "addr": 0,
+    "size": 8,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZThn48_N22AM_GroupListScrollViewD1Ev": {
+    "addr": 1102150500,
+    "size": 8,
+    "bind": 2,
+    "defined": true
+  },
+  "_ZN17SETUP_SET_Manager14setSettingInfoE7QStringS0_b": {
+    "addr": 0,
+    "size": 212,
+    "bind": 1,
+    "defined": false
+  },
+  "strcpy": {
+    "addr": 0,
+    "size": 28,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QFrame10updateMaskEv": {
+    "addr": 0,
+    "size": 288,
+    "bind": 1,
+    "defined": false
+  },
+  "_ZN6QFrame10paintEventEP11QPaintEvent": {
+    "addr": 0,
+    "size": 432,
+    "bind": 1,
+    "defined": false
+  }
+}

@@ -1,0 +1,65 @@
+# ================= 构建输出 =================
+build/
+*.o
+*.obj
+*.map
+
+# ================= Ghidra 反编译工程与导出 =================
+# ghidra/decompiled 下约 2000 个 .c 为工具导出物，可由 _origlib 原始库重生成
+ghidra/
+
+# ================= 历史归档 =================
+backup/
+
+# ================= 原始 / 重建二进制 =================
+_origlib/
+*.so
+*.so.*
+!stubs/*.so*
+*.bin
+*.dis
+*.mpkg
+*.zip
+*.prp
+*.gbf
+*.bak
+*.fixed
+*.0
+*.1
+
+# 根目录下的原始镜像与注册表快照（二进制）
+am_dev
+v23
+_CardRegistry
+_InstalledDB
+_SysRegistry_now
+_UserMenuTree
+
+# _tools 下已编译的测试程序（保留 .c/.cpp 源码）
+_tools/*
+!_tools/*.c
+!_tools/*.cpp
+
+# ================= 大体积反汇编 / 符号 dump =================
+orig_disasm_full.txt
+recon_disasm_full.txt
+qte_sym.txt
+appbase_sym.txt
+appbase_rel.txt
+orig_rel.txt
+orig_relw.txt
+orig_sym.txt
+orig_symw.txt
+recon_symbols.txt
+recon_undef.txt
+am_launch_func.txt
+doLaunch_dis.txt
+_audit_v74.txt
+
+# ================= 通用 =================
+__pycache__/
+*.pyc
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

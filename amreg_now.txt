@@ -1,0 +1,36 @@
+[dirs] preload=/usr/data_resource/preloadapps appWrite=/ezx_user/download/appwrite//am card=/mmc/mmca1/.system/java
+[loadMenuTree] begin
+[loadMenuTree] root=0xb9298
+[loadRegistry] userCfg=/ezx_user/download/appwrite//am/UserConfig appLock=/ezx_user/download/appwrite//am/AppLockConfig
+[loadRegistry] createObject type=1
+[createObject] type=1 path=/usr/data_resource/preloadapps/SysRegistry groups=72
+[createObject] type=1 created=71 map=71
+[loadRegistry] createObject type=3
+[createObject] type=3 path=/ezx_user/download/appwrite//am/UserRegistry groups=0
+[createObject] type=3 created=0 map=71
+[loadRegistry] createObject type=4
+[createObject] type=4 path=/mmc/mmca1/.system/java/CardRegistry groups=3
+[createObject] type=4 created=3 map=73
+[loadRegistry] createObject type=7
+[createObject] type=7 path=/ezx_user/download/appwrite//am/InstalledDB groups=1
+[createObject] type=7 created=1 map=74
+[loadRegistry] appMap size=74
+[loadMenuTree] rootFolder=0xeeb88
+[loadMenuTree] tree=/ezx_user/download/appwrite//am/UserMenuTree groups=8
+[loadMenuTree] linked=61 appMap size=74
+[createObject] type=4 path=/mmc/mmca1/.system/java/CardRegistry groups=3
+[createObject] type=4 created=3 map=74
+[getExecFullPath] dir=notepad exec=notepad slot=1 dev=1 -> /usr/SYSqtapp/notepad/notepad
+[getExecFullPath] dir=telnet2 exec=telnet.lin slot=4 dev=2 -> /mmc/mmca1/.system//QTDownLoad/telnet.lin
+[getExecFullPath] dir=telnet2 exec=telnet.lin slot=4 dev=2 -> /mmc/mmca1/.system//QTDownLoad/telnet.lin
+[getExecFullPath] dir=SoftManage2 exec=SoftManage slot=4 dev=2 -> /mmc/mmca1/.system//QTDownLoad/SoftManage
+[getExecFullPath] dir=telnet2 exec=telnet.lin slot=4 dev=2 -> /mmc/mmca1/.system//QTDownLoad/telnet.lin
+[getExecFullPath] dir=telnet2 exec=telnet.lin slot=4 dev=2 -> /mmc/mmca1/.system//QTDownLoad/telnet.lin
+[getExecFullPath] dir=SoftManage2 exec=SoftManage slot=4 dev=2 -> /mmc/mmca1/.system//QTDownLoad/SoftManage
+[getExecFullPath] dir=telnet2 exec=telnet.lin slot=4 dev=2 -> /mmc/mmca1/.system//QTDownLoad/telnet.lin
+[getExecFullPath] dir=systemsetup exec=systemsetup slot=1 dev=1 -> /usr/SYSqtapp/systemsetup/systemsetup
+[getExecFullPath] dir= exec= slot=1 dev=1 -> 
+[getAppObjById] HIT uuid=220072c6-9008-468e-9968-11f3c50fa95e -> Messages
+[getExecFullPath] dir=messaging exec=messaging slot=1 dev=1 -> /usr/SYSqtapp/messaging/messaging
+[getAppObjById] HIT uuid=0a92f2c5-584d-440a-954c-1a155079d71a -> Contacts
+# 

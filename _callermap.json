@@ -1,0 +1,193 @@
+{
+"_ZN18AM_RegistryManager16staticMetaObjectEv": [
+"am_dev"
+],
+"_ZN22AM_GroupListScrollView16getSelectedGroupEv": [
+"am_dev"
+],
+"_ZN10Idle_Setup15setS3KillStatusEb": [
+"am_dev"
+],
+"_ZNK18AM_RegistryManager13getAppObjByIdERK5QUuid": [
+"am_dev"
+],
+"_ZNK9AM_Folder10getAppListER5QListI12AM_AppObjectE": [
+"am_dev"
+],
+"_ZN15AM_SystemConfigD1Ev": [
+"am_dev"
+],
+"_ZN10Idle_Setup15getS3KillStatusEv": [
+"am_dev"
+],
+"_ZN10Idle_Setup14setS3AddNewURLE7QString": [
+"am_dev"
+],
+"_ZN18AM_SecurityManagerD1Ev": [
+"am_dev",
+"ezxaid.so"
+],
+"_ZN10Idle_Setup13getOTAEnabledEv": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterface13getRootFolderEv": [
+"am_dev"
+],
+"_ZN18AM_SecurityManager22verifySecurityByLaunchERK7QStringPcPi": [
+"am_dev"
+],
+"_ZN9AM_AppLnkD1Ev": [
+"am_dev"
+],
+"_ZN15AM_Carrier_InfoC1EP7QObject": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterface13getAllAppListER5QListI12AM_AppObjectE": [
+"am_dev"
+],
+"_ZNK18AM_RegistryManager9classNameEv": [
+"am_dev"
+],
+"_ZNK18AM_RegistryManager13getAllAppListER5QListI12AM_AppObjectE": [
+"am_dev"
+],
+"_ZN18AM_SecurityManagerC1Ev": [
+"am_dev",
+"ezxaid.so"
+],
+"_ZN10Idle_SetupC1Ev": [
+"am_dev"
+],
+"_ZN10Idle_Setup21getIgnoreOTAUrlUpdateEv": [
+"am_dev"
+],
+"_ZNK18AM_RegistryManager13getRootFolderEv": [
+"am_dev"
+],
+"_ZN10Idle_Setup15doAutoSelectionERbS0_b": [
+"am_dev"
+],
+"_ZN12AM_AppObject7getSizeEv": [
+"am_dev"
+],
+"_ZN18AM_RegistryManager18slotAddAppToFolderERK7QStringS2_i": [
+"am_dev"
+],
+"_ZN10Idle_Setup9getS3InfoERbS0_": [
+"am_dev"
+],
+"_ZN18AM_RegistryManager17getConfigFileNameENS_11RegFileTypeE": [
+"am_dev",
+"ezxaid.so"
+],
+"_ZN18AM_RegistryManager18slotAppUnInstalledERK7QStringS2_": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterface12changeFolderERK7QStringS2_S2_i": [
+"am_dev"
+],
+"_ZN18AM_RegistryManager17initRegistryFilesEv": [
+"am_dev"
+],
+"_ZN10Idle_Setup15isItemAvailableE10set_item_t": [
+"am_dev"
+],
+"_ZNK12AM_AppObject10getBigIconER7QPixmap": [
+"am_dev"
+],
+"_ZNK9AM_AppLnk15getExecFullPathEv": [
+"am_dev",
+"ezxaid.so"
+],
+"_ZN18AM_RegistryManagerD2Ev": [
+"am_dev"
+],
+"_ZN15AM_SystemConfigC1Ev": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterfaceC1EP18AM_RegistryManagerP7QObjectPKc": [
+"am_dev"
+],
+"_ZNK19AM_AppDataInterface14getAutoRunAppsER5QListI9AM_AppLnkE": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterface12getAppObjectERK7QString": [
+"am_dev"
+],
+"_ZNK19AM_AppDataInterface13getAppLnkByIdERK5QUuid": [
+"am_dev"
+],
+"_ZN10Idle_SetupD1Ev": [
+"am_dev"
+],
+"_ZN10Idle_Setup11getShortcutEi": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterface11changeOrderERK7QStringRK5QListIS0_E": [
+"am_dev"
+],
+"_ZN22AM_GroupListScrollViewC1E5QListI9AM_FolderE7QStringP7QWidget": [
+"am_dev"
+],
+"_ZNK18AM_RegistryManager12getAppObjectERK7QString": [
+"am_dev"
+],
+"_ZN10Idle_Setup18setEnableS3FeatureEb": [
+"am_dev"
+],
+"_ZNK19AM_AppDataInterface10getJavaObjERKi": [
+"am_dev"
+],
+"_ZN18AM_RegistryManager12initRegistryEv": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterface19getAppLnkBySerialIdERK7QString": [
+"am_dev"
+],
+"_ZN10Idle_Setup18getDefaultShortcutEi": [
+"am_dev"
+],
+"_ZN15AM_Carrier_Info13getInfoStringEv": [
+"am_dev"
+],
+"_ZN15AM_SystemConfig6ezxGidEv": [
+"am_dev"
+],
+"_ZN19AM_AppDataInterfaceD1Ev": [
+"am_dev"
+],
+"_ZNK12AM_AppObject12getSmallIconER7QPixmap": [
+"am_dev"
+],
+"_ZN18AM_RegistryManagerC2EP7QObjectPKc": [
+"am_dev"
+],
+"_ZN10Idle_Setup12setS3BaseURLE7QString": [
+"am_dev"
+],
+"_ZN10Idle_Setup9setS3InfoEbb": [
+"am_dev"
+],
+"_ZNK12AM_AppObject7getNameEv": [
+"am_dev",
+"ezxaid.so"
+],
+"_ZN15AM_SystemConfig6ezxUidEv": [
+"am_dev"
+],
+"_ZN18AM_RegistryManagerC1EP7QObjectPKc": [
+"ezxaid.so"
+],
+"_ZN18AM_RegistryManager19getSystemFolderNameERK7QStringRS0_": [
+"ezxaid.so"
+],
+"_ZN18AM_RegistryManager21removeAppFromMainMenuERK7QStringb": [
+"ezxaid.so"
+],
+"_ZN18AM_RegistryManager14changeFileAttrERK7QString": [
+"ezxaid.so"
+],
+"_ZN18AM_SecurityManager23verifySecurityByInstallERK7QStringRS0_": [
+"ezxaid.so"
+]
+}

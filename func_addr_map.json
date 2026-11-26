@@ -1,0 +1,3647 @@
+{
+  "1101995696": {
+    "mangled": "_ZN9AM_AppLnk17setAppLockEnabledEb",
+    "demangled": "AM_AppLnk::setAppLockEnabled()",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145592": {
+    "mangled": "_ZNK19AM_AppDataInterface10metaObjectEv",
+    "demangled": "_ZNK19AM_AppDataInterface10metaObjectEv",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102114788": {
+    "mangled": "_ZN18AM_SecurityManagerD4Ev",
+    "demangled": "AM_SecurityManager",
+    "size": 496,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101986456": {
+    "mangled": "_ZNK12AM_AppObject7getPathEv",
+    "demangled": "_ZNK12AM_AppObject7getPathEv",
+    "size": 1472,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102146780": {
+    "mangled": "_ZN18AM_RegistryManager13folderChangedEPK9AM_Folder",
+    "demangled": "AM_RegistryManager::folderChanged()",
+    "size": 276,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109568": {
+    "mangled": "_ZN20AM_MainMenuInterfaceD1Ev",
+    "demangled": "AM_MainMenuInterface",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102124032": {
+    "mangled": "_ZN10Idle_Setup15doAutoSelectionERbS0_b",
+    "demangled": "Idle_Setup::doAutoSelection()",
+    "size": 6528,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102088488": {
+    "mangled": "_ZN18AM_RegistryManager22slotHotPlugForceUpdateERK8QCStringRK6QArrayIcE",
+    "demangled": "AM_RegistryManager::slotHotPlugForceUpdate()",
+    "size": 328,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965908": {
+    "mangled": "_ZN12AM_AppObjectD2Ev",
+    "demangled": "AM_AppObject",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965032": {
+    "mangled": "_ZN12AM_AppObjectC2Ev",
+    "demangled": "AM_AppObject",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987976": {
+    "mangled": "_ZN9AM_AppLnkC4Ev",
+    "demangled": "AM_AppLnk",
+    "size": 172,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101966472": {
+    "mangled": "_ZNK12AM_AppObject7getNameEv",
+    "demangled": "_ZNK12AM_AppObject7getNameEv",
+    "size": 14020,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102004228": {
+    "mangled": "_ZN5QListI12AM_AppObjectED0Ev",
+    "demangled": "QList",
+    "size": 64,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102042212": {
+    "mangled": "_ZN18AM_RegistryManager11changeOrderERK7QStringRK5QListIS0_E",
+    "demangled": "AM_RegistryManager::changeOrder()",
+    "size": 992,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102193128": {
+    "mangled": "_ZTV26AM_GroupListScrollViewItem",
+    "demangled": "_ZTV26AM_GroupListScrollViewItem",
+    "size": 112,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102016204": {
+    "mangled": "_ZNK18AM_RegistryManager12getAppObjectERK7QString",
+    "demangled": "_ZNK18AM_RegistryManager12getAppObjectERK7QString",
+    "size": 160,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102016364": {
+    "mangled": "_ZNK18AM_RegistryManager13getAllAppListER5QListI12AM_AppObjectE",
+    "demangled": "_ZNK18AM_RegistryManager13getAllAppListER5QListI12AM_AppObjectE",
+    "size": 676,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145908": {
+    "mangled": "_ZN18AM_RegistryManager16staticMetaObjectEv",
+    "demangled": "AM_RegistryManager::staticMetaObject()",
+    "size": 872,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965012": {
+    "mangled": "_ZN15AM_SystemConfig6ezxGidEv",
+    "demangled": "AM_SystemConfig::ezxGid()",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102144308": {
+    "mangled": "_ZN10Idle_Setup16isShortcutFreezeEi",
+    "demangled": "Idle_Setup::isShortcutFreeze()",
+    "size": 448,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102148700": {
+    "mangled": "_ZN17AM_AppLockManager16staticMetaObjectEv",
+    "demangled": "AM_AppLockManager::staticMetaObject()",
+    "size": 496,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964468": {
+    "mangled": "_ZN19AM_AppDataInterfaceD1Ev",
+    "demangled": "AM_AppDataInterface",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102102840": {
+    "mangled": "_ZN17AM_AppLockManagerD0Ev",
+    "demangled": "AM_AppLockManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102020344": {
+    "mangled": "_ZN18AM_RegistryManager17initRegistryFilesEv",
+    "demangled": "AM_RegistryManager::initRegistryFiles()",
+    "size": 396,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192648": {
+    "mangled": "_ZTV6QGList",
+    "demangled": "_ZTV6QGList",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1101988164": {
+    "mangled": "_ZN9AM_AppLnkD0Ev",
+    "demangled": "AM_AppLnk",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102114408": {
+    "mangled": "_ZN18AM_SecurityManagerC2Ev",
+    "demangled": "AM_SecurityManager",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102079156": {
+    "mangled": "_ZNK18AM_RegistryManager19getInstalledAppListER5QListI9AM_AppLnkEb",
+    "demangled": "_ZNK18AM_RegistryManager19getInstalledAppListER5QListI9AM_AppLnkEb",
+    "size": 212,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102088284": {
+    "mangled": "_ZN18AM_RegistryManager21getAppParentFolderUidERK7QStringRS0_",
+    "demangled": "AM_RegistryManager::getAppParentFolderUid()",
+    "size": 204,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964964": {
+    "mangled": "_ZNK6QGList5countEv",
+    "demangled": "_ZNK6QGList5countEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010912": {
+    "mangled": "_ZN13AM_AppFactoryD1Ev",
+    "demangled": "AM_AppFactory",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987928": {
+    "mangled": "_ZN12AM_AppObject6invokeERK20AM_LauncherInterface",
+    "demangled": "AM_AppObject::invoke()",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113784": {
+    "mangled": "_ZN15AM_Carrier_Info20slotUpdateInfoStringEv",
+    "demangled": "AM_Carrier_Info::slotUpdateInfoString()",
+    "size": 624,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102009340": {
+    "mangled": "_ZN11AM_ShortcutC4Ev",
+    "demangled": "AM_Shortcut",
+    "size": 100,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964980": {
+    "mangled": "_ZN15AM_SystemConfigC4Ev",
+    "demangled": "AM_SystemConfig",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987960": {
+    "mangled": "_ZN12AM_AppObject15setAppLockValueEi",
+    "demangled": "AM_AppObject::setAppLockValue()",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150840": {
+    "mangled": "_ZN15AM_Carrier_Info2trEPKcS1_",
+    "demangled": "AM_Carrier_Info::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102118076": {
+    "mangled": "_ZN18AM_SecurityManager23verifySecurityByInstallERK7QStringRS0_",
+    "demangled": "AM_SecurityManager::verifySecurityByInstall()",
+    "size": 1948,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102020740": {
+    "mangled": "_ZN18AM_RegistryManager12loadRegistryEv",
+    "demangled": "AM_RegistryManager::loadRegistry()",
+    "size": 684,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005248": {
+    "mangled": "_ZN5QListI12AM_AppObjectED1Ev",
+    "demangled": "QList",
+    "size": 56,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113432": {
+    "mangled": "_ZN15AM_Carrier_InfoD0Ev",
+    "demangled": "AM_Carrier_Info",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005348": {
+    "mangled": "_ZN15AM_EmbeddedLinkC4Ev",
+    "demangled": "AM_EmbeddedLink",
+    "size": 100,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109552": {
+    "mangled": "_ZN20AM_MainMenuInterfaceC1Ev",
+    "demangled": "AM_MainMenuInterface",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112020": {
+    "mangled": "_ZN22AM_GroupListScrollView16getSelectedGroupEv",
+    "demangled": "AM_GroupListScrollView::getSelectedGroup()",
+    "size": 144,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010924": {
+    "mangled": "_ZN13AM_AppFactory15createAppObjectEN12AM_AppObject4TypeE",
+    "demangled": "AM_AppFactory::createAppObject()",
+    "size": 132,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102100840": {
+    "mangled": "_ZN12QMapIteratorI7QStringP12AM_AppObjectE3decEv",
+    "demangled": "QMapIterator",
+    "size": 136,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192696": {
+    "mangled": "_ZTV12AM_AppObject",
+    "demangled": "_ZTV12AM_AppObject",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1101964992": {
+    "mangled": "_ZN15AM_SystemConfigD1Ev",
+    "demangled": "AM_SystemConfig",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964344": {
+    "mangled": "_ZN19AM_AppDataInterfaceC4EP18AM_RegistryManagerP7QObjectPKc",
+    "demangled": "AM_AppDataInterface",
+    "size": 116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192840": {
+    "mangled": "_ZTV5QListI12AM_AppObjectE",
+    "demangled": "_ZTV5QListI12AM_AppObjectE",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1101964484": {
+    "mangled": "_ZN19AM_AppDataInterfaceD4Ev",
+    "demangled": "AM_AppDataInterface",
+    "size": 156,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102194876": {
+    "mangled": "_DYNAMIC",
+    "demangled": "_DYNAMIC",
+    "size": 0,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 65521
+  },
+  "1102101680": {
+    "mangled": "_ZNK11QMapPrivateI7QStringP12AM_AppObjectE4findERKS0_",
+    "demangled": "_ZNK11QMapPrivateI7QStringP12AM_AppObjectE4findERKS0_",
+    "size": 124,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149588": {
+    "mangled": "_ZN14AM_StandardDlg16staticMetaObjectEv",
+    "demangled": "AM_StandardDlg::staticMetaObject()",
+    "size": 288,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102147600": {
+    "mangled": "_ZN18AM_RegistryManager14appUnInstalledERK7QStringS2_",
+    "demangled": "AM_RegistryManager::appUnInstalled()",
+    "size": 356,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150644": {
+    "mangled": "_ZN15AM_Carrier_Info14initMetaObjectEv",
+    "demangled": "AM_Carrier_Info::initMetaObject()",
+    "size": 116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102009464": {
+    "mangled": "_ZN11AM_ShortcutD4Ev",
+    "demangled": "AM_Shortcut",
+    "size": 132,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996288": {
+    "mangled": "_ZN9AM_FolderD1Ev",
+    "demangled": "AM_Folder",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110000": {
+    "mangled": "_ZN14AM_StandardDlg7preInitEv",
+    "demangled": "AM_StandardDlg::preInit()",
+    "size": 96,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964460": {
+    "mangled": "_ZN19AM_AppDataInterfaceD2Ev",
+    "demangled": "AM_AppDataInterface",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102123996": {
+    "mangled": "_ZN10Idle_SetupD4Ev",
+    "demangled": "Idle_Setup",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199672": {
+    "mangled": "_end",
+    "demangled": "_end",
+    "size": 0,
+    "bind": 1,
+    "type": 0,
+    "defined": true,
+    "shndx": 65521
+  },
+  "1102110832": {
+    "mangled": "_ZThn48_N14AM_StandardDlgD0Ev",
+    "demangled": "_ZThn48_N14AM_StandardDlgD0Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102033796": {
+    "mangled": "_ZN18AM_RegistryManager12createFolderERK7QStringS2_S2_S2_",
+    "demangled": "AM_RegistryManager::createFolder()",
+    "size": 5956,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102114416": {
+    "mangled": "_ZN18AM_SecurityManagerC4Ev",
+    "demangled": "AM_SecurityManager",
+    "size": 356,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964940": {
+    "mangled": "_ZNK19AM_AppDataInterface14getAutoRunAppsER5QListI9AM_AppLnkE",
+    "demangled": "_ZNK19AM_AppDataInterface14getAutoRunAppsER5QListI9AM_AppLnkE",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112612": {
+    "mangled": "_ZN26AM_GroupListScrollViewItemC1E7QStringP9QListViewRKS0_N14QCheckListItem4TypeE",
+    "demangled": "AM_GroupListScrollViewItem",
+    "size": 136,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010876": {
+    "mangled": "_ZNK11AM_Shortcut15getAppLockValueEv",
+    "demangled": "_ZNK11AM_Shortcut15getAppLockValueEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102193464": {
+    "mangled": "_ZTV14AM_StandardDlg",
+    "demangled": "_ZTV14AM_StandardDlg",
+    "size": 548,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102193080": {
+    "mangled": "_ZTV5QListI9AM_FolderE",
+    "demangled": "_ZTV5QListI9AM_FolderE",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102110808": {
+    "mangled": "_ZN14AM_StandardDlg9getSelectEv",
+    "demangled": "AM_StandardDlg::getSelect()",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987932": {
+    "mangled": "_ZN12AM_AppObject12createObjectERK4QMapI7QStringS1_E",
+    "demangled": "AM_AppObject::createObject()",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150608": {
+    "mangled": "_ZNK15AM_Carrier_Info9classNameEv",
+    "demangled": "_ZNK15AM_Carrier_Info9classNameEv",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102114780": {
+    "mangled": "_ZN18AM_SecurityManagerD1Ev",
+    "demangled": "AM_SecurityManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101993240": {
+    "mangled": "_ZNK9AM_AppLnk15getExecFullPathEv",
+    "demangled": "_ZNK9AM_AppLnk15getExecFullPathEv",
+    "size": 1528,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149428": {
+    "mangled": "_ZN14AM_StandardDlg2trEPKc",
+    "demangled": "AM_StandardDlg::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102003656": {
+    "mangled": "_ZNK9AM_Folder7isEmptyEv",
+    "demangled": "_ZNK9AM_Folder7isEmptyEv",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996280": {
+    "mangled": "_ZN9AM_FolderD2Ev",
+    "demangled": "AM_Folder",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110096": {
+    "mangled": "_ZN14AM_StandardDlg8postInitEv",
+    "demangled": "AM_StandardDlg::postInit()",
+    "size": 644,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150920": {
+    "mangled": "_ZN15AM_Carrier_Info16staticMetaObjectEv",
+    "demangled": "AM_Carrier_Info::staticMetaObject()",
+    "size": 312,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110824": {
+    "mangled": "_ZThn36_N14AM_StandardDlgD1Ev",
+    "demangled": "_ZThn36_N14AM_StandardDlgD1Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101995704": {
+    "mangled": "_ZNK9AM_AppLnk15getAppLockValueEv",
+    "demangled": "_ZNK9AM_AppLnk15getAppLockValueEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101989120": {
+    "mangled": "_ZN9AM_AppLnk12createObjectERK4QMapI7QStringS1_E",
+    "demangled": "AM_AppLnk::createObject()",
+    "size": 4116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965932": {
+    "mangled": "_ZN12AM_AppObjectD4Ev",
+    "demangled": "AM_AppObject",
+    "size": 540,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149888": {
+    "mangled": "_ZNK22AM_GroupListScrollView9classNameEv",
+    "demangled": "_ZNK22AM_GroupListScrollView9classNameEv",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150120": {
+    "mangled": "_ZN22AM_GroupListScrollView2trEPKcS1_",
+    "demangled": "AM_GroupListScrollView::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199652": {
+    "mangled": "_ZN18AM_RegistryManager7metaObjE",
+    "demangled": "AM_RegistryManager::metaObj()",
+    "size": 4,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 20
+  },
+  "1102017040": {
+    "mangled": "_ZN18AM_RegistryManager17getConfigFileNameENS_11RegFileTypeE",
+    "demangled": "AM_RegistryManager::getConfigFileName()",
+    "size": 3304,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102100308": {
+    "mangled": "AM_RegistryManager_changeFolder",
+    "demangled": "AM_RegistryManager_changeFolder",
+    "size": 492,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149272": {
+    "mangled": "_ZNK17AM_AppLockManager10metaObjectEv",
+    "demangled": "_ZNK17AM_AppLockManager10metaObjectEv",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102088116": {
+    "mangled": "_ZN18AM_RegistryManager18getSystemFolderUidENS_12SystemFolderER7QString",
+    "demangled": "AM_RegistryManager::getSystemFolderUid()",
+    "size": 168,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964340": {
+    "mangled": "_ZN19AM_AppDataInterfaceC1EP18AM_RegistryManagerP7QObjectPKc",
+    "demangled": "AM_AppDataInterface",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964652": {
+    "mangled": "_ZNK19AM_AppDataInterface13getAppObjByIdERK5QUuid",
+    "demangled": "_ZNK19AM_AppDataInterface13getAppObjByIdERK5QUuid",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145316": {
+    "mangled": "_ZN19AM_AppDataInterface13folderChangedEPK9AM_Folder",
+    "demangled": "AM_AppDataInterface::folderChanged()",
+    "size": 276,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109560": {
+    "mangled": "_ZN20AM_MainMenuInterfaceD2Ev",
+    "demangled": "AM_MainMenuInterface",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102011060": {
+    "mangled": "_ZN18AM_RegistryManagerC1EP7QObjectPKc",
+    "demangled": "AM_RegistryManager",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102148384": {
+    "mangled": "_ZNK18AM_RegistryManager10metaObjectEv",
+    "demangled": "_ZNK18AM_RegistryManager10metaObjectEv",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101994768": {
+    "mangled": "_ZN9AM_AppLnk14getUidByStringERK7QString",
+    "demangled": "AM_AppLnk::getUidByString()",
+    "size": 548,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113076": {
+    "mangled": "_ZN15AM_Carrier_InfoC1EP7QObject",
+    "demangled": "AM_Carrier_Info",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102100976": {
+    "mangled": "_ZN6QArrayIcED1Ev",
+    "demangled": "QArray",
+    "size": 44,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101988172": {
+    "mangled": "_ZN9AM_AppLnkD4Ev",
+    "demangled": "AM_AppLnk",
+    "size": 340,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964712": {
+    "mangled": "_ZN19AM_AppDataInterface13getRootFolderEv",
+    "demangled": "AM_AppDataInterface::getRootFolder()",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102085676": {
+    "mangled": "_ZN18AM_RegistryManager18slotAppUnInstalledERK7QStringS2_",
+    "demangled": "AM_RegistryManager::slotAppUnInstalled()",
+    "size": 1308,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149312": {
+    "mangled": "_ZN14AM_StandardDlg14initMetaObjectEv",
+    "demangled": "AM_StandardDlg::initMetaObject()",
+    "size": 116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102004476": {
+    "mangled": "_ZN11QMapPrivateI7QStringS0_E4copyEP8QMapNodeIS0_S0_E",
+    "demangled": "QMapPrivate",
+    "size": 280,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965924": {
+    "mangled": "_ZN12AM_AppObjectD0Ev",
+    "demangled": "AM_AppObject",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101995688": {
+    "mangled": "_ZNK9AM_AppLnk17getAppLockEnabledEv",
+    "demangled": "_ZNK9AM_AppLnk17getAppLockEnabledEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199636": {
+    "mangled": "_edata",
+    "demangled": "_edata",
+    "size": 0,
+    "bind": 1,
+    "type": 0,
+    "defined": true,
+    "shndx": 65521
+  },
+  "1102099716": {
+    "mangled": "AM_RegistryManager_removeAppFromMainMenu",
+    "demangled": "AM_RegistryManager_removeAppFromMainMenu",
+    "size": 240,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965000": {
+    "mangled": "_ZN15AM_SystemConfigD4Ev",
+    "demangled": "AM_SystemConfig",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109220": {
+    "mangled": "_ZN6QCacheIiE5clearEv",
+    "demangled": "QCache",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109528": {
+    "mangled": "_ZN6QCacheIiE10deleteItemEPv",
+    "demangled": "QCache",
+    "size": 20,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102004756": {
+    "mangled": "_ZN11QMapPrivateI7QStringS0_EC4EPKS1_",
+    "demangled": "QMapPrivate",
+    "size": 296,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102055452": {
+    "mangled": "_ZN18AM_RegistryManager16addAppToMainMenuERK7QStringS2_i",
+    "demangled": "AM_RegistryManager::addAppToMainMenu()",
+    "size": 3308,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964972": {
+    "mangled": "_ZN15AM_SystemConfigC2Ev",
+    "demangled": "AM_SystemConfig",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102120024": {
+    "mangled": "_ZN18AM_SecurityManager14verifySecurityERK7QStringPcPiS4_",
+    "demangled": "AM_SecurityManager::verifySecurity()",
+    "size": 316,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109576": {
+    "mangled": "_ZN20AM_MainMenuInterfaceD4Ev",
+    "demangled": "AM_MainMenuInterface",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145096": {
+    "mangled": "_ZN19AM_AppDataInterface16staticMetaObjectEv",
+    "demangled": "AM_AppDataInterface::staticMetaObject()",
+    "size": 220,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005472": {
+    "mangled": "_ZN15AM_EmbeddedLinkD4Ev",
+    "demangled": "AM_EmbeddedLink",
+    "size": 132,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109356": {
+    "mangled": "_ZNK6QCacheI7QStringE5countEv",
+    "demangled": "_ZNK6QCacheI7QStringE5countEv",
+    "size": 28,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102101564": {
+    "mangled": "_ZN17QMapConstIteratorI7QStringP12AM_AppObjectE3incEv",
+    "demangled": "QMapConstIterator",
+    "size": 116,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101995712": {
+    "mangled": "_ZN9AM_AppLnk15setAppLockValueEi",
+    "demangled": "AM_AppLnk::setAppLockValue()",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102140480": {
+    "mangled": "_ZN10Idle_Setup15setS3KillStatusEb",
+    "demangled": "Idle_Setup::setS3KillStatus()",
+    "size": 696,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102097080": {
+    "mangled": "_ZNK18AM_RegistryManager20getAppNameByFullPathERK7QStringRS0_",
+    "demangled": "_ZNK18AM_RegistryManager20getAppNameByFullPathERK7QStringRS0_",
+    "size": 952,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102098032": {
+    "mangled": "_ZNK18AM_RegistryManager28getAppAutoStartStatusFromDmtERK7QString",
+    "demangled": "_ZNK18AM_RegistryManager28getAppAutoStartStatusFromDmtERK7QString",
+    "size": 1164,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996128": {
+    "mangled": "_ZN9AM_FolderC2Ev",
+    "demangled": "AM_Folder",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102014392": {
+    "mangled": "_ZN18AM_RegistryManager15setAppLockValueERK5QUuidi",
+    "demangled": "AM_RegistryManager::setAppLockValue()",
+    "size": 1256,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199664": {
+    "mangled": "_ZN22AM_GroupListScrollView7metaObjE",
+    "demangled": "AM_GroupListScrollView::metaObj()",
+    "size": 4,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 20
+  },
+  "1102011876": {
+    "mangled": "_ZN18AM_RegistryManagerD4Ev",
+    "demangled": "AM_RegistryManager",
+    "size": 628,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964976": {
+    "mangled": "_ZN15AM_SystemConfigC1Ev",
+    "demangled": "AM_SystemConfig",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102139084": {
+    "mangled": "_ZN10Idle_Setup22setDisableEnableStatusEb",
+    "demangled": "Idle_Setup::setDisableEnableStatus()",
+    "size": 696,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102011056": {
+    "mangled": "_ZN18AM_RegistryManagerC2EP7QObjectPKc",
+    "demangled": "AM_RegistryManager",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987940": {
+    "mangled": "_ZNK12AM_AppObject17getAppLockEnabledEv",
+    "demangled": "_ZNK12AM_AppObject17getAppLockEnabledEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102079368": {
+    "mangled": "_ZN18AM_RegistryManager15addAppToAutoRunERK7QString",
+    "demangled": "AM_RegistryManager::addAppToAutoRun()",
+    "size": 828,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102120340": {
+    "mangled": "_ZN18AM_SecurityManager15parseSignedFileERK7QString",
+    "demangled": "AM_SecurityManager::parseSignedFile()",
+    "size": 3256,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113632": {
+    "mangled": "_ZN15AM_Carrier_Info16updateInfoStringE7QString",
+    "demangled": "AM_Carrier_Info::updateInfoString()",
+    "size": 128,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110848": {
+    "mangled": "_ZN22AM_GroupListScrollViewC2E5QListI9AM_FolderE7QStringP7QWidget",
+    "demangled": "AM_GroupListScrollView",
+    "size": 188,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192792": {
+    "mangled": "_ZTV9AM_Folder",
+    "demangled": "_ZTV9AM_Folder",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102009332": {
+    "mangled": "_ZN11AM_ShortcutC2Ev",
+    "demangled": "AM_Shortcut",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005604": {
+    "mangled": "_ZN15AM_EmbeddedLink6invokeERK20AM_LauncherInterface",
+    "demangled": "AM_EmbeddedLink::invoke()",
+    "size": 164,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109224": {
+    "mangled": "_ZN6QCacheI7QStringE5clearEv",
+    "demangled": "QCache",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102147056": {
+    "mangled": "_ZN18AM_RegistryManager19appLockValueChangedEv",
+    "demangled": "AM_RegistryManager::appLockValueChanged()",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964860": {
+    "mangled": "_ZN19AM_AppDataInterface9modifyAppERK7QStringS2_S2_S2_",
+    "demangled": "AM_AppDataInterface::modifyApp()",
+    "size": 40,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145596": {
+    "mangled": "_ZNK18AM_RegistryManager9classNameEv",
+    "demangled": "_ZNK18AM_RegistryManager9classNameEv",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109908": {
+    "mangled": "_ZN14AM_StandardDlgD4Ev",
+    "demangled": "AM_StandardDlg",
+    "size": 88,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101956668": {
+    "mangled": "_init",
+    "demangled": "_init",
+    "size": 0,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 8
+  },
+  "1102133064": {
+    "mangled": "_ZN10Idle_Setup12setS3BaseURLE7QString",
+    "demangled": "Idle_Setup::setS3BaseURL()",
+    "size": 1152,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150516": {
+    "mangled": "_ZN22AM_GroupListScrollViewD0Ev",
+    "demangled": "AM_GroupListScrollView",
+    "size": 72,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199660": {
+    "mangled": "_ZN14AM_StandardDlg7metaObjE",
+    "demangled": "AM_StandardDlg::metaObj()",
+    "size": 4,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 20
+  },
+  "1102102824": {
+    "mangled": "_ZN17AM_AppLockManagerD2Ev",
+    "demangled": "AM_AppLockManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109768": {
+    "mangled": "_ZN14AM_StandardDlgC2EP7QWidgetPKc",
+    "demangled": "AM_StandardDlg",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987964": {
+    "mangled": "_ZN12AM_AppObject4dumpEv",
+    "demangled": "AM_AppObject::dump()",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102053524": {
+    "mangled": "_ZNK18AM_RegistryManager15getOpenWithAppsERK7QStringR5QListINS_11OpenWithAppEE",
+    "demangled": "_ZNK18AM_RegistryManager15getOpenWithAppsERK7QStringR5QListINS_11OpenWithAppEE",
+    "size": 1928,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150200": {
+    "mangled": "_ZN22AM_GroupListScrollView16staticMetaObjectEv",
+    "demangled": "AM_GroupListScrollView::staticMetaObject()",
+    "size": 240,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101984520": {
+    "mangled": "_ZNK12AM_AppObject10getBigIconEv",
+    "demangled": "_ZNK12AM_AppObject10getBigIconEv",
+    "size": 1624,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112164": {
+    "mangled": "_ZN22AM_GroupListScrollView11slotClickedEP13QListViewItem",
+    "demangled": "AM_GroupListScrollView::slotClicked()",
+    "size": 144,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192888": {
+    "mangled": "_ZTV15AM_EmbeddedLink",
+    "demangled": "_ZTV15AM_EmbeddedLink",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102150596": {
+    "mangled": "_ZThn36_N22AM_GroupListScrollViewD0Ev",
+    "demangled": "_ZThn36_N22AM_GroupListScrollViewD0Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102003584": {
+    "mangled": "_ZN9AM_Folder6removeEPK12AM_AppObject",
+    "demangled": "AM_Folder::remove()",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150588": {
+    "mangled": "_ZThn48_N22AM_GroupListScrollViewD0Ev",
+    "demangled": "_ZThn48_N22AM_GroupListScrollViewD0Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102143728": {
+    "mangled": "_ZN10Idle_Setup18getDefaultShortcutEi",
+    "demangled": "Idle_Setup::getDefaultShortcut()",
+    "size": 164,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102051544": {
+    "mangled": "_ZN18AM_RegistryManager22slotReloadAppLockValueEv",
+    "demangled": "AM_RegistryManager::slotReloadAppLockValue()",
+    "size": 1788,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149276": {
+    "mangled": "_ZNK14AM_StandardDlg9classNameEv",
+    "demangled": "_ZNK14AM_StandardDlg9classNameEv",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005768": {
+    "mangled": "_ZN15AM_EmbeddedLink12createObjectERK4QMapI7QStringS1_E",
+    "demangled": "AM_EmbeddedLink::createObject()",
+    "size": 1564,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010896": {
+    "mangled": "_ZN13AM_AppFactoryC1Ev",
+    "demangled": "AM_AppFactory",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964952": {
+    "mangled": "_ZN19AM_AppDataInterface18getRegistryManagerEv",
+    "demangled": "AM_AppDataInterface::getRegistryManager()",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192744": {
+    "mangled": "_ZTV9AM_AppLnk",
+    "demangled": "_ZTV9AM_AppLnk",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102102016": {
+    "mangled": "_ZN11QMapPrivateI7QStringP12AM_AppObjectE6insertEP12QMapNodeBaseS5_RKS0_",
+    "demangled": "QMapPrivate",
+    "size": 284,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102131800": {
+    "mangled": "_ZN10Idle_Setup9setS3InfoEbb",
+    "demangled": "Idle_Setup::setS3Info()",
+    "size": 1264,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102007332": {
+    "mangled": "_ZN15AM_EmbeddedLink4dumpEv",
+    "demangled": "AM_EmbeddedLink::dump()",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109900": {
+    "mangled": "_ZN14AM_StandardDlgD0Ev",
+    "demangled": "AM_StandardDlg",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102080368": {
+    "mangled": "_ZN18AM_RegistryManager20removeAppFromAutoRunERK5QUuid",
+    "demangled": "AM_RegistryManager::removeAppFromAutoRun()",
+    "size": 172,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102075508": {
+    "mangled": "_ZN18AM_RegistryManager21removeAppFromMainMenuERK7QStringb",
+    "demangled": "AM_RegistryManager::removeAppFromMainMenu()",
+    "size": 3648,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101980492": {
+    "mangled": "_ZN12AM_AppObject14getDefaultNameEv",
+    "demangled": "AM_AppObject::getDefaultName()",
+    "size": 1012,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964640": {
+    "mangled": "_ZN19AM_AppDataInterface13getAllAppListER5QListI12AM_AppObjectE",
+    "demangled": "AM_AppDataInterface::getAllAppList()",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102138080": {
+    "mangled": "_ZN10Idle_Setup21getIgnoreOTAUrlUpdateEv",
+    "demangled": "Idle_Setup::getIgnoreOTAUrlUpdate()",
+    "size": 1004,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102101020": {
+    "mangled": "_ZN11QMapPrivateI7QStringP12AM_AppObjectE5clearEP8QMapNodeIS0_S2_E",
+    "demangled": "QMapPrivate",
+    "size": 140,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964984": {
+    "mangled": "_ZN15AM_SystemConfigD2Ev",
+    "demangled": "AM_SystemConfig",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109500": {
+    "mangled": "_ZNK6QCacheIiE5countEv",
+    "demangled": "_ZNK6QCacheIiE5countEv",
+    "size": 28,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102049152": {
+    "mangled": "_ZN18AM_RegistryManager16createConfigFileENS_11RegFileTypeE",
+    "demangled": "AM_RegistryManager::createConfigFile()",
+    "size": 404,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964772": {
+    "mangled": "_ZN19AM_AppDataInterface12createFolderERK7QStringS2_S2_S2_",
+    "demangled": "AM_AppDataInterface::createFolder()",
+    "size": 40,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010892": {
+    "mangled": "_ZN13AM_AppFactoryC2Ev",
+    "demangled": "AM_AppFactory",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145748": {
+    "mangled": "_ZN18AM_RegistryManager2trEPKc",
+    "demangled": "AM_RegistryManager::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113624": {
+    "mangled": "_ZN15AM_Carrier_Info8setIconsEv",
+    "demangled": "AM_Carrier_Info::setIcons()",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112364": {
+    "mangled": "_ZN5QListI9AM_FolderE5clearEv",
+    "demangled": "QList",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102009448": {
+    "mangled": "_ZN11AM_ShortcutD1Ev",
+    "demangled": "AM_Shortcut",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102015648": {
+    "mangled": "_ZNK18AM_RegistryManager13getAppObjByIdERK5QUuid",
+    "demangled": "_ZNK18AM_RegistryManager13getAppObjByIdERK5QUuid",
+    "size": 264,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005456": {
+    "mangled": "_ZN15AM_EmbeddedLinkD1Ev",
+    "demangled": "AM_EmbeddedLink",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102004292": {
+    "mangled": "_ZN11QMapPrivateI7QStringS0_E5clearEP8QMapNodeIS0_S0_E",
+    "demangled": "QMapPrivate",
+    "size": 184,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101981504": {
+    "mangled": "_ZN12AM_AppObject7setNameERK7QString",
+    "demangled": "AM_AppObject::setName()",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102003692": {
+    "mangled": "_ZNK9AM_Folder10getAppListER5QListI12AM_AppObjectE",
+    "demangled": "_ZNK9AM_Folder10getAppListER5QListI12AM_AppObjectE",
+    "size": 44,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102013716": {
+    "mangled": "_ZN18AM_RegistryManager12initRegistryEv",
+    "demangled": "AM_RegistryManager::initRegistry()",
+    "size": 28,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102095660": {
+    "mangled": "_ZN18AM_RegistryManager17handleCardPlugOutEv",
+    "demangled": "AM_RegistryManager::handleCardPlugOut()",
+    "size": 1420,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102011064": {
+    "mangled": "_ZN18AM_RegistryManagerC4EP7QObjectPKc",
+    "demangled": "AM_RegistryManager",
+    "size": 788,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965468": {
+    "mangled": "_ZN12AM_AppObjectC2ENS_4TypeE",
+    "demangled": "AM_AppObject",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109996": {
+    "mangled": "_ZN14AM_StandardDlg4initEv",
+    "demangled": "AM_StandardDlg::init()",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199656": {
+    "mangled": "_ZN17AM_AppLockManager7metaObjE",
+    "demangled": "AM_AppLockManager::metaObj()",
+    "size": 4,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 20
+  },
+  "1102123988": {
+    "mangled": "_ZN10Idle_SetupD1Ev",
+    "demangled": "Idle_Setup",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996296": {
+    "mangled": "_ZN9AM_FolderD0Ev",
+    "demangled": "AM_Folder",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102048696": {
+    "mangled": "_ZN18AM_RegistryManager10createUuidEv",
+    "demangled": "AM_RegistryManager::createUuid()",
+    "size": 380,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102011868": {
+    "mangled": "_ZN18AM_RegistryManagerD0Ev",
+    "demangled": "AM_RegistryManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109384": {
+    "mangled": "_ZN6QCacheI7QStringE10deleteItemEPv",
+    "demangled": "QCache",
+    "size": 116,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113440": {
+    "mangled": "_ZN15AM_Carrier_InfoD4Ev",
+    "demangled": "AM_Carrier_Info",
+    "size": 184,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102101160": {
+    "mangled": "_ZN6QArrayIcED0Ev",
+    "demangled": "QArray",
+    "size": 56,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005344": {
+    "mangled": "_ZN15AM_EmbeddedLinkC1Ev",
+    "demangled": "AM_EmbeddedLink",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102102432": {
+    "mangled": "_ZN17AM_AppLockManagerC4EP7QObjectPKc",
+    "demangled": "AM_AppLockManager",
+    "size": 392,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102130560": {
+    "mangled": "_ZN10Idle_Setup9getS3InfoERbS0_",
+    "demangled": "Idle_Setup::getS3Info()",
+    "size": 1240,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102193392": {
+    "mangled": "_ZTV17AM_AppLockManager",
+    "demangled": "_ZTV17AM_AppLockManager",
+    "size": 68,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102112748": {
+    "mangled": "_ZN26AM_GroupListScrollViewItemC4E7QStringP9QListViewRKS0_N14QCheckListItem4TypeE",
+    "demangled": "AM_GroupListScrollViewItem",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145016": {
+    "mangled": "_ZN19AM_AppDataInterface2trEPKcS1_",
+    "demangled": "AM_AppDataInterface::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102148620": {
+    "mangled": "_ZN17AM_AppLockManager2trEPKcS1_",
+    "demangled": "AM_AppLockManager::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102147956": {
+    "mangled": "_ZN18AM_RegistryManager14addAppToFolderERK7QStringS2_i",
+    "demangled": "AM_RegistryManager::addAppToFolder()",
+    "size": 428,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102123980": {
+    "mangled": "_ZN10Idle_SetupD2Ev",
+    "demangled": "Idle_Setup",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102193048": {
+    "mangled": "_ZTV6QCacheIiE",
+    "demangled": "_ZTV6QCacheIiE",
+    "size": 32,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102045372": {
+    "mangled": "_ZN18AM_RegistryManager12changeFolderERK7QStringS2_S2_i",
+    "demangled": "AM_RegistryManager::changeFolder()",
+    "size": 3324,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102194800": {
+    "mangled": "_ZTV15AM_Carrier_Info",
+    "demangled": "_ZTV15AM_Carrier_Info",
+    "size": 72,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102103188": {
+    "mangled": "_ZN17AM_AppLockManager15getAppLockValueERK5QUuid",
+    "demangled": "AM_AppLockManager::getAppLockValue()",
+    "size": 548,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109776": {
+    "mangled": "_ZN14AM_StandardDlgC4EP7QWidgetPKc",
+    "demangled": "AM_StandardDlg",
+    "size": 108,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112432": {
+    "mangled": "_ZNK5QListI9AM_FolderE5countEv",
+    "demangled": "_ZNK5QListI9AM_FolderE5countEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102099956": {
+    "mangled": "AM_RegistryManager_getAppParentFolderUid",
+    "demangled": "AM_RegistryManager_getAppParentFolderUid",
+    "size": 352,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102144820": {
+    "mangled": "_ZN19AM_AppDataInterface14initMetaObjectEv",
+    "demangled": "AM_AppDataInterface::initMetaObject()",
+    "size": 116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102193312": {
+    "mangled": "_ZTV18AM_RegistryManager",
+    "demangled": "_ZTV18AM_RegistryManager",
+    "size": 76,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102109772": {
+    "mangled": "_ZN14AM_StandardDlgC1EP7QWidgetPKc",
+    "demangled": "AM_StandardDlg",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010904": {
+    "mangled": "_ZN13AM_AppFactoryD2Ev",
+    "demangled": "AM_AppFactory",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145632": {
+    "mangled": "_ZN18AM_RegistryManager14initMetaObjectEv",
+    "demangled": "AM_RegistryManager::initMetaObject()",
+    "size": 116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005464": {
+    "mangled": "_ZN15AM_EmbeddedLinkD0Ev",
+    "demangled": "AM_EmbeddedLink",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005240": {
+    "mangled": "_ZNK5QListI12AM_AppObjectE5countEv",
+    "demangled": "_ZNK5QListI12AM_AppObjectE5countEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149876": {
+    "mangled": "_ZN4QPTF11getPacketIdEv",
+    "demangled": "QPTF::getPacketId()",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113072": {
+    "mangled": "_ZN15AM_Carrier_InfoC2EP7QObject",
+    "demangled": "AM_Carrier_Info",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110816": {
+    "mangled": "_ZThn48_N14AM_StandardDlgD1Ev",
+    "demangled": "_ZThn48_N14AM_StandardDlgD1Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102015912": {
+    "mangled": "_ZNK18AM_RegistryManager10getJavaObjERKi",
+    "demangled": "_ZNK18AM_RegistryManager10getJavaObjERKi",
+    "size": 160,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102012504": {
+    "mangled": "_ZN18AM_RegistryManager11clearAppMapEv",
+    "demangled": "AM_RegistryManager::clearAppMap()",
+    "size": 1212,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102135368": {
+    "mangled": "_ZN10Idle_Setup18setEnableS3FeatureEb",
+    "demangled": "Idle_Setup::setEnableS3Feature()",
+    "size": 1008,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102142668": {
+    "mangled": "_ZN10Idle_Setup15getShortcutItemER17SETUP_SET_Manageri",
+    "demangled": "Idle_Setup::getShortcutItem()",
+    "size": 1060,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964812": {
+    "mangled": "_ZN19AM_AppDataInterface12deleteFolderERK7QString",
+    "demangled": "AM_AppDataInterface::deleteFolder()",
+    "size": 24,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102139780": {
+    "mangled": "_ZN10Idle_Setup15getS3KillStatusEv",
+    "demangled": "Idle_Setup::getS3KillStatus()",
+    "size": 700,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199644": {
+    "mangled": "_ZN17AM_AppLockManager11pAppLockMgrE",
+    "demangled": "AM_AppLockManager::pAppLockMgr()",
+    "size": 4,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 20
+  },
+  "1102102832": {
+    "mangled": "_ZN17AM_AppLockManagerD1Ev",
+    "demangled": "AM_AppLockManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101981568": {
+    "mangled": "_ZNK12AM_AppObject7getIconER7QPixmapNS_8IconTypeE",
+    "demangled": "_ZNK12AM_AppObject7getIconER7QPixmapNS_8IconTypeE",
+    "size": 2952,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996132": {
+    "mangled": "_ZN9AM_FolderC1Ev",
+    "demangled": "AM_Folder",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101981544": {
+    "mangled": "_ZNK12AM_AppObject10getBigIconER7QPixmap",
+    "demangled": "_ZNK12AM_AppObject10getBigIconER7QPixmap",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102194016": {
+    "mangled": "_ZTV22AM_GroupListScrollView",
+    "demangled": "_ZTV22AM_GroupListScrollView",
+    "size": 780,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102010884": {
+    "mangled": "_ZN11AM_Shortcut15setAppLockValueEi",
+    "demangled": "AM_Shortcut::setAppLockValue()",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102009688": {
+    "mangled": "_ZN11AM_Shortcut12createObjectERK4QMapI7QStringS1_E",
+    "demangled": "AM_Shortcut::createObject()",
+    "size": 1188,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101988156": {
+    "mangled": "_ZN9AM_AppLnkD1Ev",
+    "demangled": "AM_AppLnk",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102099464": {
+    "mangled": "_ZN18AM_RegistryManager25notifyRemoveAppFromFolderERK7QStringS2_",
+    "demangled": "AM_RegistryManager::notifyRemoveAppFromFolder()",
+    "size": 252,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987972": {
+    "mangled": "_ZN9AM_AppLnkC1Ev",
+    "demangled": "AM_AppLnk",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150440": {
+    "mangled": "_ZN22AM_GroupListScrollViewD1Ev",
+    "demangled": "AM_GroupListScrollView",
+    "size": 60,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102134216": {
+    "mangled": "_ZN10Idle_Setup14setS3AddNewURLE7QString",
+    "demangled": "Idle_Setup::setS3AddNewURL()",
+    "size": 1152,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102058760": {
+    "mangled": "_ZN18AM_RegistryManager16addAppToRegistryERKNS_12AM_AppRecordER7QStringRKS3_N9AM_Global6DeviceEi",
+    "demangled": "AM_RegistryManager::addAppToRegistry()",
+    "size": 16748,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102193016": {
+    "mangled": "_ZTV6QCacheI7QStringE",
+    "demangled": "_ZTV6QCacheI7QStringE",
+    "size": 32,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102101448": {
+    "mangled": "_ZN12QMapIteratorI7QStringP12AM_AppObjectE3incEv",
+    "demangled": "QMapIterator",
+    "size": 116,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102049076": {
+    "mangled": "_ZN18AM_RegistryManager14changeFileAttrERK7QString",
+    "demangled": "AM_RegistryManager::changeFileAttr()",
+    "size": 76,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964736": {
+    "mangled": "_ZN19AM_AppDataInterface19getAppLnkBySerialIdERK7QString",
+    "demangled": "AM_AppDataInterface::getAppLnkBySerialId()",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102011860": {
+    "mangled": "_ZN18AM_RegistryManagerD1Ev",
+    "demangled": "AM_RegistryManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996136": {
+    "mangled": "_ZN9AM_FolderC4Ev",
+    "demangled": "AM_Folder",
+    "size": 60,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965040": {
+    "mangled": "_ZN12AM_AppObjectC4Ev",
+    "demangled": "AM_AppObject",
+    "size": 428,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102148540": {
+    "mangled": "_ZN17AM_AppLockManager2trEPKc",
+    "demangled": "AM_AppLockManager::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102108688": {
+    "mangled": "_ZN17AM_AppLockManager18slotChannelMessageERK8QCStringRK6QArrayIcE",
+    "demangled": "AM_AppLockManager::slotChannelMessage()",
+    "size": 336,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102147092": {
+    "mangled": "_ZN18AM_RegistryManager12appInstalledEN9AM_Global6DeviceERK7QStringS4_i",
+    "demangled": "AM_RegistryManager::appInstalled()",
+    "size": 508,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101988148": {
+    "mangled": "_ZN9AM_AppLnkD2Ev",
+    "demangled": "AM_AppLnk",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102011852": {
+    "mangled": "_ZN18AM_RegistryManagerD2Ev",
+    "demangled": "AM_RegistryManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192936": {
+    "mangled": "_ZTV11AM_Shortcut",
+    "demangled": "_ZTV11AM_Shortcut",
+    "size": 44,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102003620": {
+    "mangled": "_ZN9AM_Folder5clearEv",
+    "demangled": "AM_Folder::clear()",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996452": {
+    "mangled": "_ZN9AM_Folder12createObjectERK4QMapI7QStringS1_E",
+    "demangled": "AM_Folder::createObject()",
+    "size": 952,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102009440": {
+    "mangled": "_ZN11AM_ShortcutD2Ev",
+    "demangled": "AM_Shortcut",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113080": {
+    "mangled": "_ZN15AM_Carrier_InfoC4EP7QObject",
+    "demangled": "AM_Carrier_Info",
+    "size": 336,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101986168": {
+    "mangled": "_ZN12AM_AppObject7getSizeEv",
+    "demangled": "AM_AppObject::getSize()",
+    "size": 288,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005448": {
+    "mangled": "_ZN15AM_EmbeddedLinkD2Ev",
+    "demangled": "AM_EmbeddedLink",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102151432": {
+    "mangled": "_fini",
+    "demangled": "_fini",
+    "size": 0,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 11
+  },
+  "1101987968": {
+    "mangled": "_ZN9AM_AppLnkC2Ev",
+    "demangled": "AM_AppLnk",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112440": {
+    "mangled": "_ZN5QListI9AM_FolderE10deleteItemEPv",
+    "demangled": "QList",
+    "size": 36,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102003456": {
+    "mangled": "_ZN9AM_Folder3addEPK12AM_AppObjecti",
+    "demangled": "AM_Folder::add()",
+    "size": 128,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110840": {
+    "mangled": "_ZThn36_N14AM_StandardDlgD0Ev",
+    "demangled": "_ZThn36_N14AM_StandardDlgD0Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149196": {
+    "mangled": "_ZN17AM_AppLockManager19appLockValueChangedEv",
+    "demangled": "AM_AppLockManager::appLockValueChanged()",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113416": {
+    "mangled": "_ZN15AM_Carrier_InfoD2Ev",
+    "demangled": "AM_Carrier_Info",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965472": {
+    "mangled": "_ZN12AM_AppObjectC1ENS_4TypeE",
+    "demangled": "AM_AppObject",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102193240": {
+    "mangled": "_ZTV19AM_AppDataInterface",
+    "demangled": "_ZTV19AM_AppDataInterface",
+    "size": 68,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102009336": {
+    "mangled": "_ZN11AM_ShortcutC1Ev",
+    "demangled": "AM_Shortcut",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102049556": {
+    "mangled": "_ZN18AM_RegistryManager12copyTextFileERK7QStringS2_",
+    "demangled": "AM_RegistryManager::copyTextFile()",
+    "size": 860,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112368": {
+    "mangled": "_ZN5QListI9AM_FolderED0Ev",
+    "demangled": "QList",
+    "size": 64,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102141580": {
+    "mangled": "_ZN10Idle_Setup15isItemAvailableE10set_item_t",
+    "demangled": "Idle_Setup::isItemAvailable()",
+    "size": 464,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102103736": {
+    "mangled": "_ZN17AM_AppLockManager10getAppNameERK5QUuidR7QString",
+    "demangled": "AM_AppLockManager::getAppName()",
+    "size": 544,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101993236": {
+    "mangled": "_ZN9AM_AppLnk4dumpEv",
+    "demangled": "AM_AppLnk::dump()",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102099196": {
+    "mangled": "_ZN18AM_RegistryManager20notifyAddAppToFolderERK7QStringS2_i",
+    "demangled": "AM_RegistryManager::notifyAddAppToFolder()",
+    "size": 268,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102004088": {
+    "mangled": "_ZN12QMapIteratorI7QStringS0_E3decEv",
+    "demangled": "QMapIterator",
+    "size": 136,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109108": {
+    "mangled": "_ZN6QCacheIiED1Ev",
+    "demangled": "QCache",
+    "size": 56,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987952": {
+    "mangled": "_ZNK12AM_AppObject15getAppLockValueEv",
+    "demangled": "_ZNK12AM_AppObject15getAppLockValueEv",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102007336": {
+    "mangled": "_ZN15AM_EmbeddedLink25getInvisiblNetLinkFromDmtEP7QStringS1_",
+    "demangled": "AM_EmbeddedLink::getInvisiblNetLinkFromDmt()",
+    "size": 1996,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150760": {
+    "mangled": "_ZN15AM_Carrier_Info2trEPKc",
+    "demangled": "AM_Carrier_Info::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965476": {
+    "mangled": "_ZN12AM_AppObjectC4ENS_4TypeE",
+    "demangled": "AM_AppObject",
+    "size": 432,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964900": {
+    "mangled": "_ZN19AM_AppDataInterface12changeFolderERK7QStringS2_S2_i",
+    "demangled": "AM_AppDataInterface::changeFolder()",
+    "size": 40,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102102300": {
+    "mangled": "_ZN17QMapConstIteratorI7QStringS0_E3incEv",
+    "demangled": "QMapConstIterator",
+    "size": 116,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102136376": {
+    "mangled": "_ZN10Idle_Setup27getHideS3WhenAutoSelectFailEv",
+    "demangled": "Idle_Setup::getHideS3WhenAutoSelectFail()",
+    "size": 704,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102100800": {
+    "mangled": "_ZN18AM_RegistryManager21checkAndUpdateCardAppER12AM_AppObject",
+    "demangled": "AM_RegistryManager::checkAndUpdateCardApp()",
+    "size": 40,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102114412": {
+    "mangled": "_ZN18AM_SecurityManagerC1Ev",
+    "demangled": "AM_SecurityManager",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102009596": {
+    "mangled": "_ZN11AM_Shortcut6invokeERK20AM_LauncherInterface",
+    "demangled": "AM_Shortcut::invoke()",
+    "size": 92,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112308": {
+    "mangled": "_ZN5QListI9AM_FolderED1Ev",
+    "demangled": "QList",
+    "size": 56,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010920": {
+    "mangled": "_ZN13AM_AppFactoryD4Ev",
+    "demangled": "AM_AppFactory",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109580": {
+    "mangled": "_ZN20AM_MainMenuInterface12ShowMainMenuEv",
+    "demangled": "AM_MainMenuInterface::ShowMainMenu()",
+    "size": 188,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102123600": {
+    "mangled": "_ZN10Idle_SetupC1Ev",
+    "demangled": "Idle_Setup",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965004": {
+    "mangled": "_ZN15AM_SystemConfig6ezxUidEv",
+    "demangled": "AM_SystemConfig::ezxUid()",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113760": {
+    "mangled": "_ZN15AM_Carrier_Info13getInfoStringEv",
+    "demangled": "AM_Carrier_Info::getInfoString()",
+    "size": 24,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109884": {
+    "mangled": "_ZN14AM_StandardDlgD2Ev",
+    "demangled": "AM_StandardDlg",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005052": {
+    "mangled": "_ZN11QMapPrivateI7QStringS0_E12insertSingleERKS0_",
+    "demangled": "QMapPrivate",
+    "size": 188,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101995720": {
+    "mangled": "_ZNK11QMapPrivateI7QStringS0_E4findERKS0_",
+    "demangled": "_ZNK11QMapPrivateI7QStringS0_E4findERKS0_",
+    "size": 124,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101997404": {
+    "mangled": "_ZN9AM_Folder13makeNewRecordER4QMapI7QStringS1_E",
+    "demangled": "AM_Folder::makeNewRecord()",
+    "size": 6052,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102123596": {
+    "mangled": "_ZN10Idle_SetupC2Ev",
+    "demangled": "Idle_Setup",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199648": {
+    "mangled": "_ZN19AM_AppDataInterface7metaObjE",
+    "demangled": "AM_AppDataInterface::metaObj()",
+    "size": 4,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 20
+  },
+  "1101964724": {
+    "mangled": "_ZN19AM_AppDataInterface12getAppObjectERK7QString",
+    "demangled": "AM_AppDataInterface::getAppObject()",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110740": {
+    "mangled": "_ZN14AM_StandardDlg13getMainLayoutEv",
+    "demangled": "AM_StandardDlg::getMainLayout()",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102151232": {
+    "mangled": "_ZN15AM_Carrier_Info15signalStrUpdateE7QString",
+    "demangled": "AM_Carrier_Info::signalStrUpdate()",
+    "size": 124,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964336": {
+    "mangled": "_ZN19AM_AppDataInterfaceC2EP18AM_RegistryManagerP7QObjectPKc",
+    "demangled": "AM_AppDataInterface",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102141176": {
+    "mangled": "_ZN10Idle_Setup16setItemAvailableE10set_item_tb",
+    "demangled": "Idle_Setup::setItemAvailable()",
+    "size": 404,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005340": {
+    "mangled": "_ZN15AM_EmbeddedLinkC2Ev",
+    "demangled": "AM_EmbeddedLink",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102142044": {
+    "mangled": "_ZN10Idle_Setup11setShortcutEi7QString",
+    "demangled": "Idle_Setup::setShortcut()",
+    "size": 600,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150604": {
+    "mangled": "_ZNK22AM_GroupListScrollView10metaObjectEv",
+    "demangled": "_ZNK22AM_GroupListScrollView10metaObjectEv",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102102848": {
+    "mangled": "_ZN17AM_AppLockManagerD4Ev",
+    "demangled": "AM_AppLockManager",
+    "size": 256,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101995844": {
+    "mangled": "_ZN17QValueListPrivateI7QStringEC4ERKS1_",
+    "demangled": "QValueListPrivate",
+    "size": 284,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109292": {
+    "mangled": "_ZN6QCacheI7QStringED0Ev",
+    "demangled": "QCache",
+    "size": 64,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109024": {
+    "mangled": "_ZN17AM_AppLockManager22slotReloadAppLockValueEv",
+    "demangled": "AM_AppLockManager::slotReloadAppLockValue()",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102086984": {
+    "mangled": "_ZN18AM_RegistryManager18slotAddAppToFolderERK7QStringS2_i",
+    "demangled": "AM_RegistryManager::slotAddAppToFolder()",
+    "size": 132,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102151356": {
+    "mangled": "_ZNK15AM_Carrier_Info10metaObjectEv",
+    "demangled": "_ZNK15AM_Carrier_Info10metaObjectEv",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112476": {
+    "mangled": "_ZN26AM_GroupListScrollViewItemC2E7QStringP9QListViewRKS0_N14QCheckListItem4TypeE",
+    "demangled": "AM_GroupListScrollViewItem",
+    "size": 136,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102102428": {
+    "mangled": "_ZN17AM_AppLockManagerC1EP7QObjectPKc",
+    "demangled": "AM_AppLockManager",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102195184": {
+    "mangled": "_GLOBAL_OFFSET_TABLE_",
+    "demangled": "_GLOBAL_OFFSET_TABLE_",
+    "size": 0,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 65521
+  },
+  "1102150040": {
+    "mangled": "_ZN22AM_GroupListScrollView2trEPKc",
+    "demangled": "AM_GroupListScrollView::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101988512": {
+    "mangled": "_ZN9AM_AppLnk6invokeERK20AM_LauncherInterface",
+    "demangled": "AM_AppLnk::invoke()",
+    "size": 608,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101987948": {
+    "mangled": "_ZN12AM_AppObject17setAppLockEnabledEb",
+    "demangled": "AM_AppObject::setAppLockEnabled()",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102009456": {
+    "mangled": "_ZN11AM_ShortcutD0Ev",
+    "demangled": "AM_Shortcut",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101981552": {
+    "mangled": "_ZNK12AM_AppObject12getSmallIconER7QPixmap",
+    "demangled": "_ZNK12AM_AppObject12getSmallIconER7QPixmap",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965036": {
+    "mangled": "_ZN12AM_AppObjectC1Ev",
+    "demangled": "AM_AppObject",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112848": {
+    "mangled": "_ZN26AM_GroupListScrollViewItemD1Ev",
+    "demangled": "AM_GroupListScrollViewItem",
+    "size": 108,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102080540": {
+    "mangled": "_ZN18AM_RegistryManager20removeAppFromAutoRunERK7QString",
+    "demangled": "AM_RegistryManager::removeAppFromAutoRun()",
+    "size": 1912,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102102416": {
+    "mangled": "_ZN6QArrayIcE6detachEv",
+    "demangled": "QArray",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102144784": {
+    "mangled": "_ZNK19AM_AppDataInterface9classNameEv",
+    "demangled": "_ZNK19AM_AppDataInterface9classNameEv",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102003764": {
+    "mangled": "_ZN9AM_Folder4dumpEv",
+    "demangled": "AM_Folder::dump()",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102080196": {
+    "mangled": "_ZN18AM_RegistryManager15addAppToAutoRunERK5QUuid",
+    "demangled": "AM_RegistryManager::addAppToAutoRun()",
+    "size": 172,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102115284": {
+    "mangled": "_ZN18AM_SecurityManager22verifySecurityByLaunchERK7QStringPcPi",
+    "demangled": "AM_SecurityManager::verifySecurityByLaunch()",
+    "size": 2792,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102148388": {
+    "mangled": "_ZNK17AM_AppLockManager9classNameEv",
+    "demangled": "_ZNK17AM_AppLockManager9classNameEv",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149232": {
+    "mangled": "_ZN17AM_AppLockManager14appNameChangedERK7QString",
+    "demangled": "AM_AppLockManager::appNameChanged()",
+    "size": 40,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102145828": {
+    "mangled": "_ZN18AM_RegistryManager2trEPKcS1_",
+    "demangled": "AM_RegistryManager::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964476": {
+    "mangled": "_ZN19AM_AppDataInterfaceD0Ev",
+    "demangled": "AM_AppDataInterface",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102144936": {
+    "mangled": "_ZN19AM_AppDataInterface2trEPKc",
+    "demangled": "AM_AppDataInterface::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102111036": {
+    "mangled": "_ZN22AM_GroupListScrollViewC1E5QListI9AM_FolderE7QStringP7QWidget",
+    "demangled": "AM_GroupListScrollView",
+    "size": 188,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149924": {
+    "mangled": "_ZN22AM_GroupListScrollView14initMetaObjectEv",
+    "demangled": "AM_GroupListScrollView::initMetaObject()",
+    "size": 116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964664": {
+    "mangled": "_ZNK19AM_AppDataInterface13getAppLnkByIdERK5QUuid",
+    "demangled": "_ZNK19AM_AppDataInterface13getAppLnkByIdERK5QUuid",
+    "size": 36,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109892": {
+    "mangled": "_ZN14AM_StandardDlgD1Ev",
+    "demangled": "AM_StandardDlg",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110748": {
+    "mangled": "_ZN14AM_StandardDlg6slotOkEv",
+    "demangled": "AM_StandardDlg::slotOk()",
+    "size": 32,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102111224": {
+    "mangled": "_ZN22AM_GroupListScrollViewC4E5QListI9AM_FolderE7QStringP7QWidget",
+    "demangled": "AM_GroupListScrollView",
+    "size": 796,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102104280": {
+    "mangled": "_ZN17AM_AppLockManager13lookUpAppNameERK7QStringRK5QUuidRS0_",
+    "demangled": "AM_AppLockManager::lookUpAppName()",
+    "size": 4408,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102113424": {
+    "mangled": "_ZN15AM_Carrier_InfoD1Ev",
+    "demangled": "AM_Carrier_Info",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102143892": {
+    "mangled": "_ZN10Idle_Setup17setShortcutFreezeEib",
+    "demangled": "Idle_Setup::setShortcutFreeze()",
+    "size": 416,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102114772": {
+    "mangled": "_ZN18AM_SecurityManagerD2Ev",
+    "demangled": "AM_SecurityManager",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102101804": {
+    "mangled": "_ZN11QMapPrivateI7QStringP12AM_AppObjectE12insertSingleERKS0_",
+    "demangled": "QMapPrivate",
+    "size": 212,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102021424": {
+    "mangled": "_ZN18AM_RegistryManager12createObjectENS_11RegFileTypeER7ZConfigS2_",
+    "demangled": "AM_RegistryManager::createObject()",
+    "size": 9044,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150508": {
+    "mangled": "_ZThn36_N22AM_GroupListScrollViewD1Ev",
+    "demangled": "_ZThn36_N22AM_GroupListScrollViewD1Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102053332": {
+    "mangled": "_ZNK18AM_RegistryManager14getAutoRunAppsER5QListI9AM_AppLnkE",
+    "demangled": "_ZNK18AM_RegistryManager14getAutoRunAppsER5QListI9AM_AppLnkE",
+    "size": 192,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102043204": {
+    "mangled": "_ZN18AM_RegistryManager9modifyAppERK7QStringS2_S2_S2_",
+    "demangled": "AM_RegistryManager::modifyApp()",
+    "size": 2168,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102013744": {
+    "mangled": "_ZNK18AM_RegistryManager21getLockEnabledAppListER5QListI12AM_AppObjectE",
+    "demangled": "_ZNK18AM_RegistryManager21getLockEnabledAppListER5QListI12AM_AppObjectE",
+    "size": 360,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109032": {
+    "mangled": "_ZN17AM_AppLockManager17slotReloadAppNameERK7QString",
+    "demangled": "AM_AppLockManager::slotReloadAppName()",
+    "size": 76,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102148424": {
+    "mangled": "_ZN17AM_AppLockManager14initMetaObjectEv",
+    "demangled": "AM_AppLockManager::initMetaObject()",
+    "size": 116,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964700": {
+    "mangled": "_ZNK19AM_AppDataInterface10getJavaObjERKi",
+    "demangled": "_ZNK19AM_AppDataInterface10getJavaObjERKi",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102016072": {
+    "mangled": "_ZNK18AM_RegistryManager13getRootFolderEv",
+    "demangled": "_ZNK18AM_RegistryManager13getRootFolderEv",
+    "size": 132,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109556": {
+    "mangled": "_ZN20AM_MainMenuInterfaceC4Ev",
+    "demangled": "AM_MainMenuInterface",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102103104": {
+    "mangled": "_ZN17AM_AppLockManager8instanceEv",
+    "demangled": "AM_AppLockManager::instance()",
+    "size": 84,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102144756": {
+    "mangled": "_ZN10Idle_Setup5flushEv",
+    "demangled": "Idle_Setup::flush()",
+    "size": 28,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102082452": {
+    "mangled": "_ZN18AM_RegistryManager16slotAppInstalledEN9AM_Global6DeviceERK7QStringS4_i",
+    "demangled": "AM_RegistryManager::slotAppInstalled()",
+    "size": 3224,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102005304": {
+    "mangled": "_ZN5QListI12AM_AppObjectE10deleteItemEPv",
+    "demangled": "QList",
+    "size": 36,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192984": {
+    "mangled": "_ZTV6QArrayIcE",
+    "demangled": "_ZTV6QArrayIcE",
+    "size": 28,
+    "bind": 2,
+    "type": 1,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102101216": {
+    "mangled": "_ZN11QMapPrivateI7QStringP12AM_AppObjectE4copyEP8QMapNodeIS0_S2_E",
+    "demangled": "QMapPrivate",
+    "size": 232,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102199668": {
+    "mangled": "_ZN15AM_Carrier_Info7metaObjE",
+    "demangled": "AM_Carrier_Info::metaObj()",
+    "size": 4,
+    "bind": 1,
+    "type": 1,
+    "defined": true,
+    "shndx": 20
+  },
+  "1102014104": {
+    "mangled": "_ZNK18AM_RegistryManager15getAppLockValueERK5QUuid",
+    "demangled": "_ZNK18AM_RegistryManager15getAppLockValueERK5QUuid",
+    "size": 288,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109548": {
+    "mangled": "_ZN20AM_MainMenuInterfaceC2Ev",
+    "demangled": "AM_MainMenuInterface",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149508": {
+    "mangled": "_ZN14AM_StandardDlg2trEPKcS1_",
+    "demangled": "AM_StandardDlg::tr()",
+    "size": 80,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102039752": {
+    "mangled": "_ZN18AM_RegistryManager12deleteFolderERK7QString",
+    "demangled": "AM_RegistryManager::deleteFolder()",
+    "size": 2460,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102192640": {
+    "mangled": "__data_start",
+    "demangled": "__data_start",
+    "size": 0,
+    "bind": 1,
+    "type": 0,
+    "defined": true,
+    "shndx": 13
+  },
+  "1102004224": {
+    "mangled": "_ZN5QListI12AM_AppObjectE5clearEv",
+    "demangled": "QList",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102102424": {
+    "mangled": "_ZN17AM_AppLockManagerC2EP7QObjectPKc",
+    "demangled": "AM_AppLockManager",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102010900": {
+    "mangled": "_ZN13AM_AppFactoryC4Ev",
+    "demangled": "AM_AppFactory",
+    "size": 4,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102123604": {
+    "mangled": "_ZN10Idle_SetupC4Ev",
+    "demangled": "Idle_Setup",
+    "size": 376,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101981560": {
+    "mangled": "_ZNK12AM_AppObject16getAnimationIconER7QPixmap",
+    "demangled": "_ZNK12AM_AppObject16getAnimationIconER7QPixmap",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102088816": {
+    "mangled": "_ZN18AM_RegistryManager16handleCardPlugInENS_11RegFileTypeE",
+    "demangled": "AM_RegistryManager::handleCardPlugIn()",
+    "size": 6844,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102003736": {
+    "mangled": "_ZN9AM_Folder14getAppPositionEPK12AM_AppObject",
+    "demangled": "AM_Folder::getAppPosition()",
+    "size": 28,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102110780": {
+    "mangled": "_ZN14AM_StandardDlg10slotCancelEv",
+    "demangled": "AM_StandardDlg::slotCancel()",
+    "size": 28,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102142644": {
+    "mangled": "_ZN10Idle_Setup11getShortcutEi",
+    "demangled": "Idle_Setup::getShortcut()",
+    "size": 24,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965916": {
+    "mangled": "_ZN12AM_AppObjectD1Ev",
+    "demangled": "AM_AppObject",
+    "size": 8,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102137080": {
+    "mangled": "_ZN10Idle_Setup13getOTAEnabledEv",
+    "demangled": "Idle_Setup::getOTAEnabled()",
+    "size": 1000,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101965020": {
+    "mangled": "_ZN15AM_SystemConfig6DRMUidEv",
+    "demangled": "AM_SystemConfig::DRMUid()",
+    "size": 12,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102050416": {
+    "mangled": "_ZN18AM_RegistryManager18slotChannelMessageERK8QCStringRK6QArrayIcE",
+    "demangled": "AM_RegistryManager::slotChannelMessage()",
+    "size": 1128,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112828": {
+    "mangled": "_ZNK14QCheckListItem4textEi",
+    "demangled": "_ZNK14QCheckListItem4textEi",
+    "size": 20,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102112956": {
+    "mangled": "_ZN26AM_GroupListScrollViewItemD0Ev",
+    "demangled": "AM_GroupListScrollViewItem",
+    "size": 116,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101964836": {
+    "mangled": "_ZN19AM_AppDataInterface11changeOrderERK7QStringRK5QListIS0_E",
+    "demangled": "AM_AppDataInterface::changeOrder()",
+    "size": 24,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101986144": {
+    "mangled": "_ZN12AM_AppObject9getVenderEv",
+    "demangled": "AM_AppObject::getVender()",
+    "size": 24,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109164": {
+    "mangled": "_ZN6QCacheI7QStringED1Ev",
+    "demangled": "QCache",
+    "size": 56,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102003768": {
+    "mangled": "_ZN11QMapPrivateI7QStringS0_E6insertEP12QMapNodeBaseS3_RKS0_",
+    "demangled": "QMapPrivate",
+    "size": 320,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102109228": {
+    "mangled": "_ZN6QCacheIiED0Ev",
+    "demangled": "QCache",
+    "size": 64,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996304": {
+    "mangled": "_ZN9AM_FolderD4Ev",
+    "demangled": "AM_Folder",
+    "size": 148,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102030468": {
+    "mangled": "_ZN18AM_RegistryManager12loadMenuTreeEv",
+    "demangled": "AM_RegistryManager::loadMenuTree()",
+    "size": 3328,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101996196": {
+    "mangled": "_ZN9AM_Folder4initEv",
+    "demangled": "AM_Folder::init()",
+    "size": 84,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101995316": {
+    "mangled": "_ZN9AM_AppLnk14getGidByStringERK7QString",
+    "demangled": "AM_AppLnk::getGidByString()",
+    "size": 372,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102087116": {
+    "mangled": "_ZN18AM_RegistryManager19getSystemFolderNameERK7QStringRS0_",
+    "demangled": "AM_RegistryManager::getSystemFolderName()",
+    "size": 1000,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102149884": {
+    "mangled": "_ZNK14AM_StandardDlg10metaObjectEv",
+    "demangled": "_ZNK14AM_StandardDlg10metaObjectEv",
+    "size": 4,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1101981512": {
+    "mangled": "_ZN12AM_AppObject4initEv",
+    "demangled": "AM_AppObject::init()",
+    "size": 32,
+    "bind": 1,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  },
+  "1102150500": {
+    "mangled": "_ZThn48_N22AM_GroupListScrollViewD1Ev",
+    "demangled": "_ZThn48_N22AM_GroupListScrollViewD1Ev",
+    "size": 8,
+    "bind": 2,
+    "type": 2,
+    "defined": true,
+    "shndx": 10
+  }
+}
